@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4A15A723-54DF-4822-BC85-99CB53019AF7}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Bsc.Dmtds.Service</RootNamespace>
+    <AssemblyName>Bsc.Dmtds.Service</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.1\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="effection\Common\EmailService.cs" />
+    <Compile Include="effection\Common\SmsService.cs" />
+    <Compile Include="effection\Config.cs" />
+    <Compile Include="effection\RecommendService.cs" />
+    <Compile Include="effection\Account\RoleService.cs" />
+    <Compile Include="effection\Account\UserService.cs" />
+    <Compile Include="IConfig.cs" />
+    <Compile Include="IRecommendService.cs" />
+    <Compile Include="IRoleService.cs" />
+    <Compile Include="IUserService.cs" />
+    <Compile Include="PasswordRepository.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Bsc.Dmtds.Common\Bsc.Dmtds.Common.csproj">
+      <Project>{e478a3b7-fc98-45f1-b6ed-8c4180ae3631}</Project>
+      <Name>Bsc.Dmtds.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Bsc.Dmtds.Core\Bsc.Dmtds.Core.csproj">
+      <Project>{53ffebe4-9274-40b0-bd87-fcd65faefaca}</Project>
+      <Name>Bsc.Dmtds.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Bsc.Dmtds.Dal\Bsc.Dmtds.Dal.csproj">
+      <Project>{78a38815-131b-4313-a8cf-a0500be44fa6}</Project>
+      <Name>Bsc.Dmtds.Dal</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Bsc.Dmtds.Respository\Bsc.Dmtds.Respository.csproj">
+      <Project>{20F03D1E-3BC8-4BED-9F36-709CF3A27DCA}</Project>
+      <Name>Bsc.Dmtds.Respository</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

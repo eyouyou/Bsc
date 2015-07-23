@@ -1,0 +1,5 @@
+D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Dto\bin\Debug\Bsc.Dmtds.Dto.dll
+D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Dto\bin\Debug\Bsc.Dmtds.Dto.pdb
+D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Dto\obj\Debug\Bsc.Dmtds.Dto.dll
+D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Dto\obj\Debug\Bsc.Dmtds.Dto.pdb
+D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Dto\obj\Debug\Bsc.Dmtds.Dto.csprojResolveAssemblyReference.cache

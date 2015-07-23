@@ -1,0 +1,5 @@
+D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Provider\bin\Debug\Bsc.Dmtds.Provider.dll
+D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Provider\bin\Debug\Bsc.Dmtds.Provider.pdb
+D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Provider\obj\Debug\Bsc.Dmtds.Provider.csprojResolveAssemblyReference.cache
+D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Provider\obj\Debug\Bsc.Dmtds.Provider.dll
+D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Provider\obj\Debug\Bsc.Dmtds.Provider.pdb

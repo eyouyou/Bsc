@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewBag.Title = "AddCourse";
+    Layout = "~/Areas/Account/Views/Shared/_adminLayout.cshtml";
+}
+
+<h2>AddCourse</h2>
+
+<div class="body-nest" id="validation">
+    <div class="form_center">
+
+        <form  id="contact-form" class="form-horizontal">
+            <fieldset>
+
+
+                <div class="control-group">
+                    <label class="control-label" for="name">课程名称</label>
+                    <div class="controls">
+                        <input type="text" class="form-control" name="name" id="name">
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label class="control-label" for="subject">类型</label>
+                    <div class="controls">
+                        <input type="text" class="form-control" name="subject" id="subject1">
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label class="control-label" for="subject">课时</label>
+                    <div class="controls">
+                        <input type="text" class="form-control" name="subject" id="subject">
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label class="control-label" for="message">Your Message</label>
+                    <div class="controls">
+                        <textarea class="form-control" name="message" id="message" rows="3"></textarea>
+                    </div>
+                </div>
+                <div class="form-actions" style="margin:20px 0 0 0;">
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                    <button type="reset" class="btn">Cancel</button>
+                </div>
+            </fieldset>
+        </form>
+
+    </div>
+</div>

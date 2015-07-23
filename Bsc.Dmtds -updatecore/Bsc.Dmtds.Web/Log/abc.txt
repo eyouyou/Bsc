@@ -1,0 +1,2255 @@
+事件代码: 3005
+事件消息: 发生了未经处理的异常。
+事件时间: 2015/7/6 11:31:45
+事件时间(UTC): 2015/7/6 3:31:45
+事件 ID: 8c21e5e801af486fb556bcf571d88166
+事件序列: 4
+事件匹配项: 1
+事件详细信息代码: 0
+
+应用程序信息:
+    应用程序域: /LM/W3SVC/3/ROOT-1-130806270911574468
+    信任级别: Full
+    应用程序虚拟路径: /
+    应用程序路径: D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\
+    计算机名称: VS-PC
+
+进程信息:
+    进程 ID: 8108
+    进程名: w3wp.exe
+    帐户名: IIS APPPOOL\Kooboo
+
+异常信息:
+    异常类型: System.Web.HttpException
+    异常消息: 未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+
+
+内部异常信息(级别 1):
+    异常类型: System.Exception
+    异常消息: 未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+
+
+内部异常信息(级别 2):
+    异常类型: System.Reflection.ReflectionTypeLoadException
+    异常消息: 无法加载一个或多个请求的类型。有关更多信息，请检索 LoaderExceptions 属性。
+
+请求信息:
+    请求 URL: http://localhost/MvcTest
+    请求路径: /MvcTest
+    用户主机地址: ::1
+    用户: 
+    通过身份验证: False
+    身份验证类型: 
+    线程帐户名: IIS APPPOOL\Kooboo
+
+线程信息:
+    线程 ID: 8
+    线程帐户名: IIS APPPOOL\Kooboo
+    正在模拟: False
+    堆栈跟踪:    在 System.Web.HttpApplicationFactory.EnsureAppStartCalledForIntegratedMode(HttpContext context, HttpApplication app)
+   在 System.Web.HttpApplication.RegisterEventSubscriptionsWithIIS(IntPtr appContext, HttpContext context, MethodInfo[] handlers)
+   在 System.Web.HttpApplication.InitSpecial(HttpApplicationState state, MethodInfo[] handlers, IntPtr appContext, HttpContext context)
+   在 System.Web.HttpApplicationFactory.GetSpecialApplicationInstance(IntPtr appContext, HttpContext context)
+   在 System.Web.Hosting.PipelineRuntime.InitializeApplication(IntPtr appContext)
+
+--------------------------------------------------------------------------------------------------------
+事件代码: 3005
+事件消息: 发生了未经处理的异常。
+事件时间: 2015/7/8 22:14:32
+事件时间(UTC): 2015/7/8 14:14:32
+事件 ID: 8cc12ec228de4a60acdc013fb5608495
+事件序列: 2
+事件匹配项: 1
+事件详细信息代码: 0
+
+应用程序信息:
+    应用程序域: /LM/W3SVC/3/ROOT-1-130808384607620852
+    信任级别: Full
+    应用程序虚拟路径: /
+    应用程序路径: D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\
+    计算机名称: VS-PC
+
+进程信息:
+    进程 ID: 5372
+    进程名: w3wp.exe
+    帐户名: IIS APPPOOL\Kooboo
+
+异常信息:
+    异常类型: System.Web.HttpException
+    异常消息: 未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+
+
+内部异常信息(级别 1):
+    异常类型: System.Exception
+    异常消息: 未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+
+
+内部异常信息(级别 2):
+    异常类型: System.Reflection.ReflectionTypeLoadException
+    异常消息: 无法加载一个或多个请求的类型。有关更多信息，请检索 LoaderExceptions 属性。
+
+请求信息:
+    请求 URL: http://127.0.0.1/Page/login.aspx
+    请求路径: /Page/login.aspx
+    用户主机地址: 127.0.0.1
+    用户: 
+    通过身份验证: False
+    身份验证类型: 
+    线程帐户名: IIS APPPOOL\Kooboo
+
+线程信息:
+    线程 ID: 7
+    线程帐户名: IIS APPPOOL\Kooboo
+    正在模拟: False
+    堆栈跟踪:    在 System.Web.HttpApplicationFactory.EnsureAppStartCalledForIntegratedMode(HttpContext context, HttpApplication app)
+   在 System.Web.HttpApplication.RegisterEventSubscriptionsWithIIS(IntPtr appContext, HttpContext context, MethodInfo[] handlers)
+   在 System.Web.HttpApplication.InitSpecial(HttpApplicationState state, MethodInfo[] handlers, IntPtr appContext, HttpContext context)
+   在 System.Web.HttpApplicationFactory.GetSpecialApplicationInstance(IntPtr appContext, HttpContext context)
+   在 System.Web.Hosting.PipelineRuntime.InitializeApplication(IntPtr appContext)
+
+--------------------------------------------------------------------------------------------------------
+事件代码: 3005
+事件消息: 发生了未经处理的异常。
+事件时间: 2015/7/9 12:10:17
+事件时间(UTC): 2015/7/9 4:10:17
+事件 ID: 20ea2c0b339f43a5a43e9d86054cc74b
+事件序列: 4
+事件匹配项: 1
+事件详细信息代码: 0
+
+应用程序信息:
+    应用程序域: /LM/W3SVC/2/ROOT-1-130808885983823622
+    信任级别: Full
+    应用程序虚拟路径: /
+    应用程序路径: D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\
+    计算机名称: VS-PC
+
+进程信息:
+    进程 ID: 5380
+    进程名: w3wp.exe
+    帐户名: NT AUTHORITY\SYSTEM
+
+异常信息:
+    异常类型: System.Web.HttpException
+    异常消息: 未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+
+
+内部异常信息(级别 1):
+    异常类型: System.Exception
+    异常消息: 未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+未能加载文件或程序集“AutoMapper, Version=3.3.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005”或它的某一个依赖项。系统找不到指定的文件。
+
+
+内部异常信息(级别 2):
+    异常类型: System.Reflection.ReflectionTypeLoadException
+    异常消息: 无法加载一个或多个请求的类型。有关更多信息，请检索 LoaderExceptions 属性。
+
+请求信息:
+    请求 URL: http://localhost/
+    请求路径: /
+    用户主机地址: ::1
+    用户: 
+    通过身份验证: False
+    身份验证类型: 
+    线程帐户名: NT AUTHORITY\SYSTEM
+
+线程信息:
+    线程 ID: 8
+    线程帐户名: NT AUTHORITY\SYSTEM
+    正在模拟: False
+    堆栈跟踪:    在 System.Web.HttpApplicationFactory.EnsureAppStartCalledForIntegratedMode(HttpContext context, HttpApplication app)
+   在 System.Web.HttpApplication.RegisterEventSubscriptionsWithIIS(IntPtr appContext, HttpContext context, MethodInfo[] handlers)
+   在 System.Web.HttpApplication.InitSpecial(HttpApplicationState state, MethodInfo[] handlers, IntPtr appContext, HttpContext context)
+   在 System.Web.HttpApplicationFactory.GetSpecialApplicationInstance(IntPtr appContext, HttpContext context)
+   在 System.Web.Hosting.PipelineRuntime.InitializeApplication(IntPtr appContext)
+
+--------------------------------------------------------------------------------------------------------
+事件代码: 3005
+事件消息: 发生了未经处理的异常。
+事件时间: 2015/7/9 12:14:45
+事件时间(UTC): 2015/7/9 4:14:45
+事件 ID: 358526585a16490c84c937ee82404d37
+事件序列: 4
+事件匹配项: 1
+事件详细信息代码: 0
+
+应用程序信息:
+    应用程序域: /LM/W3SVC/2/ROOT-2-130808888803634906
+    信任级别: Full
+    应用程序虚拟路径: /
+    应用程序路径: D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\
+    计算机名称: VS-PC
+
+进程信息:
+    进程 ID: 5380
+    进程名: w3wp.exe
+    帐户名: NT AUTHORITY\SYSTEM
+
+异常信息:
+    异常类型: System.Web.HttpException
+    异常消息: Can not find any IoC engines in the context. Please try to copy the default engine(Kooboo.CMS.Common.Runtime.Dependency.Ninject.dll and Ninject.dll) which implemented in Kooboo CMS into BIN folder.
+
+内部异常信息(级别 1):
+    异常类型: System.ApplicationException
+    异常消息: Can not find any IoC engines in the context. Please try to copy the default engine(Kooboo.CMS.Common.Runtime.Dependency.Ninject.dll and Ninject.dll) which implemented in Kooboo CMS into BIN folder.
+
+请求信息:
+    请求 URL: http://localhost/
+    请求路径: /
+    用户主机地址: ::1
+    用户: 
+    通过身份验证: False
+    身份验证类型: 
+    线程帐户名: NT AUTHORITY\SYSTEM
+
+线程信息:
+    线程 ID: 14
+    线程帐户名: NT AUTHORITY\SYSTEM
+    正在模拟: False
+    堆栈跟踪:    在 System.Web.HttpApplicationFactory.EnsureAppStartCalledForIntegratedMode(HttpContext context, HttpApplication app)
+   在 System.Web.HttpApplication.RegisterEventSubscriptionsWithIIS(IntPtr appContext, HttpContext context, MethodInfo[] handlers)
+   在 System.Web.HttpApplication.InitSpecial(HttpApplicationState state, MethodInfo[] handlers, IntPtr appContext, HttpContext context)
+   在 System.Web.HttpApplicationFactory.GetSpecialApplicationInstance(IntPtr appContext, HttpContext context)
+   在 System.Web.Hosting.PipelineRuntime.InitializeApplication(IntPtr appContext)
+
+--------------------------------------------------------------------------------------------------------
+事件代码: 3005
+事件消息: 发生了未经处理的异常。
+事件时间: 2015/7/9 13:03:19
+事件时间(UTC): 2015/7/9 5:03:19
+事件 ID: 0aa42f531fdf4a5fbe3bc5d99ea6ec4d
+事件序列: 4
+事件匹配项: 1
+事件详细信息代码: 0
+
+应用程序信息:
+    应用程序域: /LM/W3SVC/2/ROOT-2-130808917971383206
+    信任级别: Full
+    应用程序虚拟路径: /
+    应用程序路径: D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\
+    计算机名称: VS-PC
+
+进程信息:
+    进程 ID: 3032
+    进程名: w3wp.exe
+    帐户名: NT AUTHORITY\SYSTEM
+
+异常信息:
+    异常类型: System.Web.HttpException
+    异常消息: 未能加载文件或程序集“Ninject, Version=3.0.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7”或它的某一个依赖项。系统找不到指定的文件。
+
+
+内部异常信息(级别 1):
+    异常类型: System.Exception
+    异常消息: 未能加载文件或程序集“Ninject, Version=3.0.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7”或它的某一个依赖项。系统找不到指定的文件。
+
+
+内部异常信息(级别 2):
+    异常类型: System.Reflection.ReflectionTypeLoadException
+    异常消息: 无法加载一个或多个请求的类型。有关更多信息，请检索 LoaderExceptions 属性。
+
+请求信息:
+    请求 URL: http://localhost/
+    请求路径: /
+    用户主机地址: ::1
+    用户: 
+    通过身份验证: False
+    身份验证类型: 
+    线程帐户名: NT AUTHORITY\SYSTEM
+
+线程信息:
+    线程 ID: 9
+    线程帐户名: NT AUTHORITY\SYSTEM
+    正在模拟: False
+    堆栈跟踪:    在 System.Web.HttpApplicationFactory.EnsureAppStartCalledForIntegratedMode(HttpContext context, HttpApplication app)
+   在 System.Web.HttpApplication.RegisterEventSubscriptionsWithIIS(IntPtr appContext, HttpContext context, MethodInfo[] handlers)
+   在 System.Web.HttpApplication.InitSpecial(HttpApplicationState state, MethodInfo[] handlers, IntPtr appContext, HttpContext context)
+   在 System.Web.HttpApplicationFactory.GetSpecialApplicationInstance(IntPtr appContext, HttpContext context)
+   在 System.Web.Hosting.PipelineRuntime.InitializeApplication(IntPtr appContext)
+
+--------------------------------------------------------------------------------------------------------
+事件代码: 3005
+事件消息: 发生了未经处理的异常。
+事件时间: 2015/7/9 13:08:36
+事件时间(UTC): 2015/7/9 5:08:36
+事件 ID: 13b997363a1743fcad105cffbb2c7f78
+事件序列: 4
+事件匹配项: 1
+事件详细信息代码: 0
+
+应用程序信息:
+    应用程序域: /LM/W3SVC/2/ROOT-3-130808921138914378
+    信任级别: Full
+    应用程序虚拟路径: /
+    应用程序路径: D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\
+    计算机名称: VS-PC
+
+进程信息:
+    进程 ID: 3032
+    进程名: w3wp.exe
+    帐户名: NT AUTHORITY\SYSTEM
+
+异常信息:
+    异常类型: System.Web.HttpException
+    异常消息: 未能加载文件或程序集“Ninject, Version=3.0.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7”或它的某一个依赖项。系统找不到指定的文件。
+
+
+内部异常信息(级别 1):
+    异常类型: System.Exception
+    异常消息: 未能加载文件或程序集“Ninject, Version=3.0.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7”或它的某一个依赖项。系统找不到指定的文件。
+
+
+内部异常信息(级别 2):
+    异常类型: System.Reflection.ReflectionTypeLoadException
+    异常消息: 无法加载一个或多个请求的类型。有关更多信息，请检索 LoaderExceptions 属性。
+
+请求信息:
+    请求 URL: http://localhost/
+    请求路径: /
+    用户主机地址: ::1
+    用户: 
+    通过身份验证: False
+    身份验证类型: 
+    线程帐户名: NT AUTHORITY\SYSTEM
+
+线程信息:
+    线程 ID: 23
+    线程帐户名: NT AUTHORITY\SYSTEM
+    正在模拟: False
+    堆栈跟踪:    在 System.Web.HttpApplicationFactory.EnsureAppStartCalledForIntegratedMode(HttpContext context, HttpApplication app)
+   在 System.Web.HttpApplication.RegisterEventSubscriptionsWithIIS(IntPtr appContext, HttpContext context, MethodInfo[] handlers)
+   在 System.Web.HttpApplication.InitSpecial(HttpApplicationState state, MethodInfo[] handlers, IntPtr appContext, HttpContext context)
+   在 System.Web.HttpApplicationFactory.GetSpecialApplicationInstance(IntPtr appContext, HttpContext context)
+   在 System.Web.Hosting.PipelineRuntime.InitializeApplication(IntPtr appContext)
+
+--------------------------------------------------------------------------------------------------------
+事件代码: 3005
+事件消息: 发生了未经处理的异常。
+事件时间: 2015/7/9 13:22:04
+事件时间(UTC): 2015/7/9 5:22:04
+事件 ID: 86695612ce574a4f9d5aa70c721571b7
+事件序列: 4
+事件匹配项: 1
+事件详细信息代码: 0
+
+应用程序信息:
+    应用程序域: /LM/W3SVC/2/ROOT-5-130808929186834693
+    信任级别: Full
+    应用程序虚拟路径: /
+    应用程序路径: D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\
+    计算机名称: VS-PC
+
+进程信息:
+    进程 ID: 3032
+    进程名: w3wp.exe
+    帐户名: NT AUTHORITY\SYSTEM
+
+异常信息:
+    异常类型: System.Web.HttpException
+    异常消息: 没有找到 IoC 引擎 在上下文中. 请把Bsc.Dmtds.Ninject.dll 放到 Bsc.Dmtds.Web 的 BIN 文件夹.
+
+内部异常信息(级别 1):
+    异常类型: System.ApplicationException
+    异常消息: 没有找到 IoC 引擎 在上下文中. 请把Bsc.Dmtds.Ninject.dll 放到 Bsc.Dmtds.Web 的 BIN 文件夹.
+
+请求信息:
+    请求 URL: http://localhost/
+    请求路径: /
+    用户主机地址: ::1
+    用户: 
+    通过身份验证: False
+    身份验证类型: 
+    线程帐户名: NT AUTHORITY\SYSTEM
+
+线程信息:
+    线程 ID: 31
+    线程帐户名: NT AUTHORITY\SYSTEM
+    正在模拟: False
+    堆栈跟踪:    在 System.Web.HttpApplicationFactory.EnsureAppStartCalledForIntegratedMode(HttpContext context, HttpApplication app)
+   在 System.Web.HttpApplication.RegisterEventSubscriptionsWithIIS(IntPtr appContext, HttpContext context, MethodInfo[] handlers)
+   在 System.Web.HttpApplication.InitSpecial(HttpApplicationState state, MethodInfo[] handlers, IntPtr appContext, HttpContext context)
+   在 System.Web.HttpApplicationFactory.GetSpecialApplicationInstance(IntPtr appContext, HttpContext context)
+   在 System.Web.Hosting.PipelineRuntime.InitializeApplication(IntPtr appContext)
+
+--------------------------------------------------------------------------------------------------------
+事件代码: 3005
+事件消息: 发生了未经处理的异常。
+事件时间: 2015/7/9 13:27:24
+事件时间(UTC): 2015/7/9 5:27:24
+事件 ID: bc75c345b29041108b79e2c819b637d3
+事件序列: 4
+事件匹配项: 1
+事件详细信息代码: 0
+
+应用程序信息:
+    应用程序域: /LM/W3SVC/2/ROOT-6-130808932366416555
+    信任级别: Full
+    应用程序虚拟路径: /
+    应用程序路径: D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\
+    计算机名称: VS-PC
+
+进程信息:
+    进程 ID: 3032
+    进程名: w3wp.exe
+    帐户名: NT AUTHORITY\SYSTEM
+
+异常信息:
+    异常类型: System.Web.HttpException
+    异常消息: 没有找到 IoC 引擎 在上下文中. 请把Bsc.Dmtds.Ninject.dll 放到 Bsc.Dmtds.Web 的 BIN 文件夹.
+
+内部异常信息(级别 1):
+    异常类型: System.ApplicationException
+    异常消息: 没有找到 IoC 引擎 在上下文中. 请把Bsc.Dmtds.Ninject.dll 放到 Bsc.Dmtds.Web 的 BIN 文件夹.
+
+请求信息:
+    请求 URL: http://localhost/
+    请求路径: /
+    用户主机地址: ::1
+    用户: 
+    通过身份验证: False
+    身份验证类型: 
+    线程帐户名: NT AUTHORITY\SYSTEM
+
+线程信息:
+    线程 ID: 35
+    线程帐户名: NT AUTHORITY\SYSTEM
+    正在模拟: False
+    堆栈跟踪:    在 System.Web.HttpApplicationFactory.EnsureAppStartCalledForIntegratedMode(HttpContext context, HttpApplication app)
+   在 System.Web.HttpApplication.RegisterEventSubscriptionsWithIIS(IntPtr appContext, HttpContext context, MethodInfo[] handlers)
+   在 System.Web.HttpApplication.InitSpecial(HttpApplicationState state, MethodInfo[] handlers, IntPtr appContext, HttpContext context)
+   在 System.Web.HttpApplicationFactory.GetSpecialApplicationInstance(IntPtr appContext, HttpContext context)
+   在 System.Web.Hosting.PipelineRuntime.InitializeApplication(IntPtr appContext)
+
+--------------------------------------------------------------------------------------------------------
+事件代码: 3005
+事件消息: 发生了未经处理的异常。
+事件时间: 2015/7/9 13:30:09
+事件时间(UTC): 2015/7/9 5:30:09
+事件 ID: a6590ba3f9444e27a896a76faa3c5314
+事件序列: 4
+事件匹配项: 1
+事件详细信息代码: 0
+
+应用程序信息:
+    应用程序域: /LM/W3SVC/2/ROOT-8-130808934059483393
+    信任级别: Full
+    应用程序虚拟路径: /
+    应用程序路径: D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\
+    计算机名称: VS-PC
+
+进程信息:
+    进程 ID: 3032
+    进程名: w3wp.exe
+    帐户名: NT AUTHORITY\SYSTEM
+
+异常信息:
+    异常类型: System.Web.HttpException
+    异常消息: 没有找到 IoC 引擎 在上下文中. 请把Bsc.Dmtds.Ninject.dll 放到 Bsc.Dmtds.Web 的 BIN 文件夹.
+
+内部异常信息(级别 1):
+    异常类型: System.ApplicationException
+    异常消息: 没有找到 IoC 引擎 在上下文中. 请把Bsc.Dmtds.Ninject.dll 放到 Bsc.Dmtds.Web 的 BIN 文件夹.
+
+请求信息:
+    请求 URL: http://localhost/
+    请求路径: /
+    用户主机地址: ::1
+    用户: 
+    通过身份验证: False
+    身份验证类型: 
+    线程帐户名: NT AUTHORITY\SYSTEM
+
+线程信息:
+    线程 ID: 63
+    线程帐户名: NT AUTHORITY\SYSTEM
+    正在模拟: False
+    堆栈跟踪:    在 System.Web.HttpApplicationFactory.EnsureAppStartCalledForIntegratedMode(HttpContext context, HttpApplication app)
+   在 System.Web.HttpApplication.RegisterEventSubscriptionsWithIIS(IntPtr appContext, HttpContext context, MethodInfo[] handlers)
+   在 System.Web.HttpApplication.InitSpecial(HttpApplicationState state, MethodInfo[] handlers, IntPtr appContext, HttpContext context)
+   在 System.Web.HttpApplicationFactory.GetSpecialApplicationInstance(IntPtr appContext, HttpContext context)
+   在 System.Web.Hosting.PipelineRuntime.InitializeApplication(IntPtr appContext)
+
+--------------------------------------------------------------------------------------------------------
+事件代码: 3005
+事件消息: 发生了未经处理的异常。
+事件时间: 2015/7/9 13:37:07
+事件时间(UTC): 2015/7/9 5:37:07
+事件 ID: 469911cf5e714b4c90bbec8e57d96842
+事件序列: 2
+事件匹配项: 1
+事件详细信息代码: 0
+
+应用程序信息:
+    应用程序域: /LM/W3SVC/2/ROOT-9-130808938265143943
+    信任级别: Full
+    应用程序虚拟路径: /
+    应用程序路径: D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\
+    计算机名称: VS-PC
+
+进程信息:
+    进程 ID: 3032
+    进程名: w3wp.exe
+    帐户名: NT AUTHORITY\SYSTEM
+
+异常信息:
+    异常类型: System.Web.HttpException
+    异常消息: 没有找到 IoC 引擎 在上下文中. 请把Bsc.Dmtds.Ninject.dll 放到 Bsc.Dmtds.Web 的 BIN 文件夹.
+
+内部异常信息(级别 1):
+    异常类型: System.ApplicationException
+    异常消息: 没有找到 IoC 引擎 在上下文中. 请把Bsc.Dmtds.Ninject.dll 放到 Bsc.Dmtds.Web 的 BIN 文件夹.
+
+请求信息:
+    请求 URL: http://localhost/
+    请求路径: /
+    用户主机地址: ::1
+    用户: 
+    通过身份验证: False
+    身份验证类型: 
+    线程帐户名: NT AUTHORITY\SYSTEM
+
+线程信息:
+    线程 ID: 35
+    线程帐户名: NT AUTHORITY\SYSTEM
+    正在模拟: False
+    堆栈跟踪:    在 System.Web.HttpApplicationFactory.EnsureAppStartCalledForIntegratedMode(HttpContext context, HttpApplication app)
+   在 System.Web.HttpApplication.RegisterEventSubscriptionsWithIIS(IntPtr appContext, HttpContext context, MethodInfo[] handlers)
+   在 System.Web.HttpApplication.InitSpecial(HttpApplicationState state, MethodInfo[] handlers, IntPtr appContext, HttpContext context)
+   在 System.Web.HttpApplicationFactory.GetSpecialApplicationInstance(IntPtr appContext, HttpContext context)
+   在 System.Web.Hosting.PipelineRuntime.InitializeApplication(IntPtr appContext)
+
+--------------------------------------------------------------------------------------------------------
+事件代码: 3005
+事件消息: 发生了未经处理的异常。
+事件时间: 2015/7/9 13:49:27
+事件时间(UTC): 2015/7/9 5:49:27
+事件 ID: 542967b10e374d2fad1d9f9323ce739a
+事件序列: 4
+事件匹配项: 1
+事件详细信息代码: 0
+
+应用程序信息:
+    应用程序域: /LM/W3SVC/2/ROOT-10-130808945645126054
+    信任级别: Full
+    应用程序虚拟路径: /
+    应用程序路径: D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\
+    计算机名称: VS-PC
+
+进程信息:
+    进程 ID: 3032
+    进程名: w3wp.exe
+    帐户名: NT AUTHORITY\SYSTEM
+
+异常信息:
+    异常类型: System.Web.HttpException
+    异常消息: 没有找到 IoC 引擎 在上下文中. 请把Bsc.Dmtds.Ninject.dll 放到 Bsc.Dmtds.Web 的 BIN 文件夹.
+
+内部异常信息(级别 1):
+    异常类型: System.ApplicationException
+    异常消息: 没有找到 IoC 引擎 在上下文中. 请把Bsc.Dmtds.Ninject.dll 放到 Bsc.Dmtds.Web 的 BIN 文件夹.
+
+请求信息:
+    请求 URL: http://localhost/
+    请求路径: /
+    用户主机地址: ::1
+    用户: 
+    通过身份验证: False
+    身份验证类型: 
+    线程帐户名: NT AUTHORITY\SYSTEM
+
+线程信息:
+    线程 ID: 27
+    线程帐户名: NT AUTHORITY\SYSTEM
+    正在模拟: False
+    堆栈跟踪:    在 System.Web.HttpApplicationFactory.EnsureAppStartCalledForIntegratedMode(HttpContext context, HttpApplication app)
+   在 System.Web.HttpApplication.RegisterEventSubscriptionsWithIIS(IntPtr appContext, HttpContext context, MethodInfo[] handlers)
+   在 System.Web.HttpApplication.InitSpecial(HttpApplicationState state, MethodInfo[] handlers, IntPtr appContext, HttpContext context)
+   在 System.Web.HttpApplicationFactory.GetSpecialApplicationInstance(IntPtr appContext, HttpContext context)
+   在 System.Web.Hosting.PipelineRuntime.InitializeApplication(IntPtr appContext)
+
+--------------------------------------------------------------------------------------------------------
+事件代码: 3005
+事件消息: 发生了未经处理的异常。
+事件时间: 2015/7/9 13:50:16
+事件时间(UTC): 2015/7/9 5:50:16
+事件 ID: 8aa0852ea6684227941ba6372a7be5d3
+事件序列: 4
+事件匹配项: 1
+事件详细信息代码: 0
+
+应用程序信息:
+    应用程序域: /LM/W3SVC/2/ROOT-11-130808946124303461
+    信任级别: Full
+    应用程序虚拟路径: /
+    应用程序路径: D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\
+    计算机名称: VS-PC
+
+进程信息:
+    进程 ID: 3032
+    进程名: w3wp.exe
+    帐户名: NT AUTHORITY\SYSTEM
+
+异常信息:
+    异常类型: System.Web.HttpException
+    异常消息: 没有找到 IoC 引擎 在上下文中. 请把Bsc.Dmtds.Ninject.dll 放到 Bsc.Dmtds.Web 的 BIN 文件夹.
+
+内部异常信息(级别 1):
+    异常类型: System.ApplicationException
+    异常消息: 没有找到 IoC 引擎 在上下文中. 请把Bsc.Dmtds.Ninject.dll 放到 Bsc.Dmtds.Web 的 BIN 文件夹.
+
+请求信息:
+    请求 URL: http://localhost/
+    请求路径: /
+    用户主机地址: ::1
+    用户: 
+    通过身份验证: False
+    身份验证类型: 
+    线程帐户名: NT AUTHORITY\SYSTEM
+
+线程信息:
+    线程 ID: 21
+    线程帐户名: NT AUTHORITY\SYSTEM
+    正在模拟: False
+    堆栈跟踪:    在 System.Web.HttpApplicationFactory.EnsureAppStartCalledForIntegratedMode(HttpContext context, HttpApplication app)
+   在 System.Web.HttpApplication.RegisterEventSubscriptionsWithIIS(IntPtr appContext, HttpContext context, MethodInfo[] handlers)
+   在 System.Web.HttpApplication.InitSpecial(HttpApplicationState state, MethodInfo[] handlers, IntPtr appContext, HttpContext context)
+   在 System.Web.HttpApplicationFactory.GetSpecialApplicationInstance(IntPtr appContext, HttpContext context)
+   在 System.Web.Hosting.PipelineRuntime.InitializeApplication(IntPtr appContext)
+
+--------------------------------------------------------------------------------------------------------
+事件代码: 3005
+事件消息: 发生了未经处理的异常。
+事件时间: 2015/7/9 13:54:17
+事件时间(UTC): 2015/7/9 5:54:17
+事件 ID: 209db072a661450f94285607baef6803
+事件序列: 4
+事件匹配项: 1
+事件详细信息代码: 0
+
+应用程序信息:
+    应用程序域: /LM/W3SVC/2/ROOT-12-130808948547072035
+    信任级别: Full
+    应用程序虚拟路径: /
+    应用程序路径: D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\
+    计算机名称: VS-PC
+
+进程信息:
+    进程 ID: 3032
+    进程名: w3wp.exe
+    帐户名: NT AUTHORITY\SYSTEM
+
+异常信息:
+    异常类型: System.Web.HttpException
+    异常消息: 没有找到 IoC 引擎 在上下文中. 请把Bsc.Dmtds.Ninject.dll 放到 Bsc.Dmtds.Web 的 BIN 文件夹.
+
+内部异常信息(级别 1):
+    异常类型: System.ApplicationException
+    异常消息: 没有找到 IoC 引擎 在上下文中. 请把Bsc.Dmtds.Ninject.dll 放到 Bsc.Dmtds.Web 的 BIN 文件夹.
+
+请求信息:
+    请求 URL: http://localhost/
+    请求路径: /
+    用户主机地址: ::1
+    用户: 
+    通过身份验证: False
+    身份验证类型: 
+    线程帐户名: NT AUTHORITY\SYSTEM
+
+线程信息:
+    线程 ID: 16
+    线程帐户名: NT AUTHORITY\SYSTEM
+    正在模拟: False
+    堆栈跟踪:    在 System.Web.HttpApplicationFactory.EnsureAppStartCalledForIntegratedMode(HttpContext context, HttpApplication app)
+   在 System.Web.HttpApplication.RegisterEventSubscriptionsWithIIS(IntPtr appContext, HttpContext context, MethodInfo[] handlers)
+   在 System.Web.HttpApplication.InitSpecial(HttpApplicationState state, MethodInfo[] handlers, IntPtr appContext, HttpContext context)
+   在 System.Web.HttpApplicationFactory.GetSpecialApplicationInstance(IntPtr appContext, HttpContext context)
+   在 System.Web.Hosting.PipelineRuntime.InitializeApplication(IntPtr appContext)
+
+--------------------------------------------------------------------------------------------------------
+事件代码: 3005
+事件消息: 发生了未经处理的异常。
+事件时间: 2015/7/9 14:21:14
+事件时间(UTC): 2015/7/9 6:21:14
+事件 ID: d621d50d7d9b4860b3feb3647875d493
+事件序列: 4
+事件匹配项: 1
+事件详细信息代码: 0
+
+应用程序信息:
+    应用程序域: /LM/W3SVC/2/ROOT-1-130808964718967015
+    信任级别: Full
+    应用程序虚拟路径: /
+    应用程序路径: D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\
+    计算机名称: VS-PC
+
+进程信息:
+    进程 ID: 8960
+    进程名: w3wp.exe
+    帐户名: NT AUTHORITY\SYSTEM
+
+异常信息:
+    异常类型: System.Web.HttpException
+    异常消息: 没有找到 IoC 引擎 在上下文中. 请把Bsc.Dmtds.Ninject.dll 放到 Bsc.Dmtds.Web 的 BIN 文件夹.
+
+内部异常信息(级别 1):
+    异常类型: System.ApplicationException
+    异常消息: 没有找到 IoC 引擎 在上下文中. 请把Bsc.Dmtds.Ninject.dll 放到 Bsc.Dmtds.Web 的 BIN 文件夹.
+
+请求信息:
+    请求 URL: http://localhost/
+    请求路径: /
+    用户主机地址: ::1
+    用户: 
+    通过身份验证: False
+    身份验证类型: 
+    线程帐户名: NT AUTHORITY\SYSTEM
+
+线程信息:
+    线程 ID: 6
+    线程帐户名: NT AUTHORITY\SYSTEM
+    正在模拟: False
+    堆栈跟踪:    在 System.Web.HttpApplicationFactory.EnsureAppStartCalledForIntegratedMode(HttpContext context, HttpApplication app)
+   在 System.Web.HttpApplication.RegisterEventSubscriptionsWithIIS(IntPtr appContext, HttpContext context, MethodInfo[] handlers)
+   在 System.Web.HttpApplication.InitSpecial(HttpApplicationState state, MethodInfo[] handlers, IntPtr appContext, HttpContext context)
+   在 System.Web.HttpApplicationFactory.GetSpecialApplicationInstance(IntPtr appContext, HttpContext context)
+   在 System.Web.Hosting.PipelineRuntime.InitializeApplication(IntPtr appContext)
+
+--------------------------------------------------------------------------------------------------------
+事件代码: 3005
+事件消息: 发生了未经处理的异常。
+事件时间: 2015/7/9 15:33:46
+事件时间(UTC): 2015/7/9 7:33:46
+事件 ID: 7ef0f3bced364af5b3db1a456ba99339
+事件序列: 4
+事件匹配项: 1
+事件详细信息代码: 0
+
+应用程序信息:
+    应用程序域: /LM/W3SVC/2/ROOT-4-130809008187713285
+    信任级别: Full
+    应用程序虚拟路径: /
+    应用程序路径: D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\
+    计算机名称: VS-PC
+
+进程信息:
+    进程 ID: 11136
+    进程名: w3wp.exe
+    帐户名: NT AUTHORITY\SYSTEM
+
+异常信息:
+    异常类型: System.EntryPointNotFoundException
+    异常消息: 尝试加载应用时出现了以下错误。
+ - 找不到包含 OwinStartupAttribute 的程序集。
+ - 在类“Bsc.Dmtds.Web.Startup, Bsc.Dmtds.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null”中找不到“Configuration”方法。
+若要禁用 OWIN 启动发现，请在 web.config 中为 appSetting owin:AutomaticAppStartup 添加值 "false"。
+若要指定 OWIN 启动程序集、类或方法，请在 web.config 中为 appSetting owin:AppStartup 添加完全限定的启动类或配置方法名称。
+
+请求信息:
+    请求 URL: http://localhost/
+    请求路径: /
+    用户主机地址: ::1
+    用户: 
+    通过身份验证: False
+    身份验证类型: 
+    线程帐户名: NT AUTHORITY\SYSTEM
+
+线程信息:
+    线程 ID: 5
+    线程帐户名: NT AUTHORITY\SYSTEM
+    正在模拟: False
+    堆栈跟踪:    在 Microsoft.Owin.Host.SystemWeb.OwinBuilder.GetAppStartup()
+   在 Microsoft.Owin.Host.SystemWeb.OwinHttpModule.InitializeBlueprint()
+   在 System.Threading.LazyInitializer.EnsureInitializedCore[T](T& target, Boolean& initialized, Object& syncLock, Func`1 valueFactory)
+   在 Microsoft.Owin.Host.SystemWeb.OwinHttpModule.Init(HttpApplication context)
+   在 System.Web.HttpApplication.RegisterEventSubscriptionsWithIIS(IntPtr appContext, HttpContext context, MethodInfo[] handlers)
+   在 System.Web.HttpApplication.InitSpecial(HttpApplicationState state, MethodInfo[] handlers, IntPtr appContext, HttpContext context)
+   在 System.Web.HttpApplicationFactory.GetSpecialApplicationInstance(IntPtr appContext, HttpContext context)
+   在 System.Web.Hosting.PipelineRuntime.InitializeApplication(IntPtr appContext)
+
+--------------------------------------------------------------------------------------------------------
+事件代码: 3005
+事件消息: 发生了未经处理的异常。
+事件时间: 2015/7/9 15:34:57
+事件时间(UTC): 2015/7/9 7:34:57
+事件 ID: d2f0654705854e6a89cb6013aa682eda
+事件序列: 4
+事件匹配项: 1
+事件详细信息代码: 0
+
+应用程序信息:
+    应用程序域: /LM/W3SVC/2/ROOT-6-130809008929425708
+    信任级别: Full
+    应用程序虚拟路径: /
+    应用程序路径: D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\
+    计算机名称: VS-PC
+
+进程信息:
+    进程 ID: 11136
+    进程名: w3wp.exe
+    帐户名: NT AUTHORITY\SYSTEM
+
+异常信息:
+    异常类型: System.EntryPointNotFoundException
+    异常消息: 尝试加载应用时出现了以下错误。
+ - 找不到包含 OwinStartupAttribute 的程序集。
+ - 找不到包含 Startup 或 [AssemblyName].Startup 类的程序集。
+若要禁用 OWIN 启动发现，请在 web.config 中为 appSetting owin:AutomaticAppStartup 添加值 "false"。
+若要指定 OWIN 启动程序集、类或方法，请在 web.config 中为 appSetting owin:AppStartup 添加完全限定的启动类或配置方法名称。
+
+请求信息:
+    请求 URL: http://localhost/
+    请求路径: /
+    用户主机地址: ::1
+    用户: 
+    通过身份验证: False
+    身份验证类型: 
+    线程帐户名: NT AUTHORITY\SYSTEM
+
+线程信息:
+    线程 ID: 25
+    线程帐户名: NT AUTHORITY\SYSTEM
+    正在模拟: False
+    堆栈跟踪:    在 Microsoft.Owin.Host.SystemWeb.OwinBuilder.GetAppStartup()
+   在 Microsoft.Owin.Host.SystemWeb.OwinHttpModule.InitializeBlueprint()
+   在 System.Threading.LazyInitializer.EnsureInitializedCore[T](T& target, Boolean& initialized, Object& syncLock, Func`1 valueFactory)
+   在 Microsoft.Owin.Host.SystemWeb.OwinHttpModule.Init(HttpApplication context)
+   在 System.Web.HttpApplication.RegisterEventSubscriptionsWithIIS(IntPtr appContext, HttpContext context, MethodInfo[] handlers)
+   在 System.Web.HttpApplication.InitSpecial(HttpApplicationState state, MethodInfo[] handlers, IntPtr appContext, HttpContext context)
+   在 System.Web.HttpApplicationFactory.GetSpecialApplicationInstance(IntPtr appContext, HttpContext context)
+   在 System.Web.Hosting.PipelineRuntime.InitializeApplication(IntPtr appContext)
+
+--------------------------------------------------------------------------------------------------------
+事件代码: 3005
+事件消息: 发生了未经处理的异常。
+事件时间: 2015/7/9 15:37:16
+事件时间(UTC): 2015/7/9 7:37:16
+事件 ID: 1cc6e15866ca43c18d151948fc6fdc42
+事件序列: 4
+事件匹配项: 1
+事件详细信息代码: 0
+
+应用程序信息:
+    应用程序域: /LM/W3SVC/2/ROOT-7-130809010277382807
+    信任级别: Full
+    应用程序虚拟路径: /
+    应用程序路径: D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\
+    计算机名称: VS-PC
+
+进程信息:
+    进程 ID: 11136
+    进程名: w3wp.exe
+    帐户名: NT AUTHORITY\SYSTEM
+
+异常信息:
+    异常类型: System.EntryPointNotFoundException
+    异常消息: 尝试加载应用时出现了以下错误。
+ - 找不到包含 OwinStartupAttribute 的程序集。
+ - 找不到包含 Startup 或 [AssemblyName].Startup 类的程序集。
+若要禁用 OWIN 启动发现，请在 web.config 中为 appSetting owin:AutomaticAppStartup 添加值 "false"。
+若要指定 OWIN 启动程序集、类或方法，请在 web.config 中为 appSetting owin:AppStartup 添加完全限定的启动类或配置方法名称。
+
+请求信息:
+    请求 URL: http://localhost/
+    请求路径: /
+    用户主机地址: ::1
+    用户: 
+    通过身份验证: False
+    身份验证类型: 
+    线程帐户名: NT AUTHORITY\SYSTEM
+
+线程信息:
+    线程 ID: 5
+    线程帐户名: NT AUTHORITY\SYSTEM
+    正在模拟: False
+    堆栈跟踪:    在 Microsoft.Owin.Host.SystemWeb.OwinBuilder.GetAppStartup()
+   在 Microsoft.Owin.Host.SystemWeb.OwinHttpModule.InitializeBlueprint()
+   在 System.Threading.LazyInitializer.EnsureInitializedCore[T](T& target, Boolean& initialized, Object& syncLock, Func`1 valueFactory)
+   在 Microsoft.Owin.Host.SystemWeb.OwinHttpModule.Init(HttpApplication context)
+   在 System.Web.HttpApplication.RegisterEventSubscriptionsWithIIS(IntPtr appContext, HttpContext context, MethodInfo[] handlers)
+   在 System.Web.HttpApplication.InitSpecial(HttpApplicationState state, MethodInfo[] handlers, IntPtr appContext, HttpContext context)
+   在 System.Web.HttpApplicationFactory.GetSpecialApplicationInstance(IntPtr appContext, HttpContext context)
+   在 System.Web.Hosting.PipelineRuntime.InitializeApplication(IntPtr appContext)
+
+--------------------------------------------------------------------------------------------------------
+事件代码: 3005
+事件消息: 发生了未经处理的异常。
+事件时间: 2015/7/9 15:43:26
+事件时间(UTC): 2015/7/9 7:43:26
+事件 ID: 860b5b19ce9c41648f389664fef70532
+事件序列: 4
+事件匹配项: 1
+事件详细信息代码: 0
+
+应用程序信息:
+    应用程序域: /LM/W3SVC/2/ROOT-9-130809014026737258
+    信任级别: Full
+    应用程序虚拟路径: /
+    应用程序路径: D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\
+    计算机名称: VS-PC
+
+进程信息:
+    进程 ID: 11136
+    进程名: w3wp.exe
+    帐户名: NT AUTHORITY\SYSTEM
+
+异常信息:
+    异常类型: System.EntryPointNotFoundException
+    异常消息: 尝试加载应用时出现了以下错误。
+ - 找不到包含 OwinStartupAttribute 的程序集。
+ - 找不到包含 Startup 或 [AssemblyName].Startup 类的程序集。
+若要禁用 OWIN 启动发现，请在 web.config 中为 appSetting owin:AutomaticAppStartup 添加值 "false"。
+若要指定 OWIN 启动程序集、类或方法，请在 web.config 中为 appSetting owin:AppStartup 添加完全限定的启动类或配置方法名称。
+
+请求信息:
+    请求 URL: http://localhost/
+    请求路径: /
+    用户主机地址: ::1
+    用户: 
+    通过身份验证: False
+    身份验证类型: 
+    线程帐户名: NT AUTHORITY\SYSTEM
+
+线程信息:
+    线程 ID: 30
+    线程帐户名: NT AUTHORITY\SYSTEM
+    正在模拟: False
+    堆栈跟踪:    在 Microsoft.Owin.Host.SystemWeb.OwinBuilder.GetAppStartup()
+   在 Microsoft.Owin.Host.SystemWeb.OwinHttpModule.InitializeBlueprint()
+   在 System.Threading.LazyInitializer.EnsureInitializedCore[T](T& target, Boolean& initialized, Object& syncLock, Func`1 valueFactory)
+   在 Microsoft.Owin.Host.SystemWeb.OwinHttpModule.Init(HttpApplication context)
+   在 System.Web.HttpApplication.RegisterEventSubscriptionsWithIIS(IntPtr appContext, HttpContext context, MethodInfo[] handlers)
+   在 System.Web.HttpApplication.InitSpecial(HttpApplicationState state, MethodInfo[] handlers, IntPtr appContext, HttpContext context)
+   在 System.Web.HttpApplicationFactory.GetSpecialApplicationInstance(IntPtr appContext, HttpContext context)
+   在 System.Web.Hosting.PipelineRuntime.InitializeApplication(IntPtr appContext)
+
+--------------------------------------------------------------------------------------------------------
+事件代码: 3005
+事件消息: 发生了未经处理的异常。
+事件时间: 2015/7/9 16:23:49
+事件时间(UTC): 2015/7/9 8:23:49
+事件 ID: af85c7bf7c0141e795ddc87f73958861
+事件序列: 10
+事件匹配项: 1
+事件详细信息代码: 0
+
+应用程序信息:
+    应用程序域: /LM/W3SVC/2/ROOT-1-130809038029460135
+    信任级别: Full
+    应用程序虚拟路径: /
+    应用程序路径: D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\
+    计算机名称: VS-PC
+
+进程信息:
+    进程 ID: 10080
+    进程名: w3wp.exe
+    帐户名: NT AUTHORITY\SYSTEM
+
+异常信息:
+    异常类型: System.IO.FileNotFoundException
+    异常消息: 未能加载文件或程序集“System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+
+请求信息:
+    请求 URL: http://localhost/account/Logon
+    请求路径: /account/Logon
+    用户主机地址: ::1
+    用户: 
+    通过身份验证: False
+    身份验证类型: 
+    线程帐户名: NT AUTHORITY\SYSTEM
+
+线程信息:
+    线程 ID: 8
+    线程帐户名: NT AUTHORITY\SYSTEM
+    正在模拟: False
+    堆栈跟踪:    在 System.Web.WebPages.Razor.RazorBuildProvider.get_CodeCompilerType()
+   在 System.Web.Compilation.BuildProvider.GetCompilerTypeFromBuildProvider(BuildProvider buildProvider)
+   在 System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   在 System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   在 System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.GetCompiledType(VirtualPath virtualPath)
+   在 System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   在 System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Controller.<BeginExecuteCore>b__1d(IAsyncResult asyncResult, ExecuteCoreState innerState)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.MvcHandler.<BeginProcessRequest>b__5(IAsyncResult asyncResult, ProcessRequestState innerState)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+--------------------------------------------------------------------------------------------------------
+事件代码: 3005
+事件消息: 发生了未经处理的异常。
+事件时间: 2015/7/9 16:26:04
+事件时间(UTC): 2015/7/9 8:26:04
+事件 ID: 07fcddbfdfc54fffa7db416ce5c598ce
+事件序列: 6
+事件匹配项: 1
+事件详细信息代码: 0
+
+应用程序信息:
+    应用程序域: /LM/W3SVC/2/ROOT-2-130809039608190433
+    信任级别: Full
+    应用程序虚拟路径: /
+    应用程序路径: D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\
+    计算机名称: VS-PC
+
+进程信息:
+    进程 ID: 10080
+    进程名: w3wp.exe
+    帐户名: NT AUTHORITY\SYSTEM
+
+异常信息:
+    异常类型: System.IO.FileNotFoundException
+    异常消息: 未能加载文件或程序集“System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35”或它的某一个依赖项。系统找不到指定的文件。
+
+请求信息:
+    请求 URL: http://localhost/account/Logon
+    请求路径: /account/Logon
+    用户主机地址: ::1
+    用户: 
+    通过身份验证: False
+    身份验证类型: 
+    线程帐户名: NT AUTHORITY\SYSTEM
+
+线程信息:
+    线程 ID: 11
+    线程帐户名: NT AUTHORITY\SYSTEM
+    正在模拟: False
+    堆栈跟踪:    在 System.Web.WebPages.Razor.RazorBuildProvider.get_CodeCompilerType()
+   在 System.Web.Compilation.BuildProvider.GetCompilerTypeFromBuildProvider(BuildProvider buildProvider)
+   在 System.Web.Compilation.BuildProvidersCompiler.ProcessBuildProviders()
+   在 System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   在 System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.GetCompiledType(VirtualPath virtualPath)
+   在 System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   在 System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Controller.<BeginExecuteCore>b__1d(IAsyncResult asyncResult, ExecuteCoreState innerState)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.MvcHandler.<BeginProcessRequest>b__5(IAsyncResult asyncResult, ProcessRequestState innerState)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+--------------------------------------------------------------------------------------------------------
+事件代码: 3008
+事件消息: 发生了配置错误。
+事件时间: 2015/7/22 11:09:38
+事件时间(UTC): 2015/7/22 3:09:38
+事件 ID: 888f63d66acd467091ef328ca0244e52
+事件序列: 4
+事件匹配项: 1
+事件详细信息代码: 0
+
+应用程序信息:
+    应用程序域: /LM/W3SVC/2/ROOT-4-130820081704658266
+    信任级别: Full
+    应用程序虚拟路径: /
+    应用程序路径: D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\
+    计算机名称: VS-PC
+
+进程信息:
+    进程 ID: 7180
+    进程名: w3wp.exe
+    帐户名: NT AUTHORITY\SYSTEM
+
+异常信息:
+    异常类型: System.Web.HttpException
+    异常消息: “Bsc.Dmtds.Core.Mvc.WebResourceLoader.ConfigurationManager”的类型初始值设定项引发异常。
+
+内部异常信息(级别 1):
+    异常类型: System.TypeInitializationException
+    异常消息: “Bsc.Dmtds.Core.Mvc.WebResourceLoader.ConfigurationManager”的类型初始值设定项引发异常。
+
+内部异常信息(级别 2):
+    异常类型: System.Configuration.ConfigurationErrorsException
+    异常消息: 创建 webResources 的配置节处理程序时出错: 未能加载文件或程序集“Kooboo”或它的某一个依赖项。系统找不到指定的文件。 (D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\web.config line 11)
+
+请求信息:
+    请求 URL: http://localhost/
+    请求路径: /
+    用户主机地址: ::1
+    用户: 
+    通过身份验证: False
+    身份验证类型: 
+    线程帐户名: NT AUTHORITY\SYSTEM
+
+线程信息:
+    线程 ID: 28
+    线程帐户名: NT AUTHORITY\SYSTEM
+    正在模拟: False
+    堆栈跟踪:    在 System.Web.HttpApplicationFactory.EnsureAppStartCalledForIntegratedMode(HttpContext context, HttpApplication app)
+   在 System.Web.HttpApplication.RegisterEventSubscriptionsWithIIS(IntPtr appContext, HttpContext context, MethodInfo[] handlers)
+   在 System.Web.HttpApplication.InitSpecial(HttpApplicationState state, MethodInfo[] handlers, IntPtr appContext, HttpContext context)
+   在 System.Web.HttpApplicationFactory.GetSpecialApplicationInstance(IntPtr appContext, HttpContext context)
+   在 System.Web.Hosting.PipelineRuntime.InitializeApplication(IntPtr appContext)
+
+--------------------------------------------------------------------------------------------------------
+事件代码: 3005
+事件消息: 发生了未经处理的异常。
+事件时间: 2015/7/22 11:12:23
+事件时间(UTC): 2015/7/22 3:12:23
+事件 ID: ba4f0c56e4dd49d28ec078f1ba98d310
+事件序列: 5
+事件匹配项: 1
+事件详细信息代码: 0
+
+应用程序信息:
+    应用程序域: /LM/W3SVC/2/ROOT-6-130820082220107748
+    信任级别: Full
+    应用程序虚拟路径: /
+    应用程序路径: D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\
+    计算机名称: VS-PC
+
+进程信息:
+    进程 ID: 7180
+    进程名: w3wp.exe
+    帐户名: NT AUTHORITY\SYSTEM
+
+异常信息:
+    异常类型: Ninject.ActivationException
+    异常消息: Error activating ISiteProvider
+No matching bindings are available, and the type is not self-bindable.
+Activation path:
+  2) Injection of dependency ISiteProvider into parameter provider of constructor of type SiteManager
+  1) Request for SiteManager
+
+Suggestions:
+  1) Ensure that you have defined a binding for ISiteProvider.
+  2) If the binding was defined in a module, ensure that the module has been loaded into the kernel.
+  3) Ensure you have not accidentally created more than one kernel.
+  4) If you are using constructor arguments, ensure that the parameter name matches the constructors parameter name.
+  5) If you are using automatic module loading, ensure the search path and filters are correct.
+
+
+请求信息:
+    请求 URL: http://localhost/
+    请求路径: /
+    用户主机地址: ::1
+    用户: 
+    通过身份验证: False
+    身份验证类型: 
+    线程帐户名: NT AUTHORITY\SYSTEM
+
+线程信息:
+    线程 ID: 45
+    线程帐户名: NT AUTHORITY\SYSTEM
+    正在模拟: False
+    堆栈跟踪:    在 Ninject.KernelBase.Resolve(IRequest request)
+   在 Bsc.Dmtds.Ninject.ContainerManager.KernelWrapper.Resolve(IRequest request) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\ContainerManager.cs:行号 44
+   在 Ninject.Planning.Targets.Target`1.GetValue(Type service, IContext parent)
+   在 System.Linq.Enumerable.WhereSelectArrayIterator`2.MoveNext()
+   在 System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   在 System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   在 Ninject.Activation.Providers.StandardProvider.Create(IContext context)
+   在 Ninject.Activation.Context.Resolve()
+   在 System.Linq.Enumerable.<>c__DisplayClass12`3.<CombineSelectors>b__11(TSource x)
+   在 System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   在 System.Linq.Enumerable.<CastIterator>d__b1`1.MoveNext()
+   在 System.Linq.Enumerable.Single[TSource](IEnumerable`1 source)
+   在 Bsc.Dmtds.Ninject.ContainerManager.Resolve[T](String key, Parameter[] parameters) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\ContainerManager.cs:行号 147
+   在 Bsc.Dmtds.Ninject.NinjectEngine.Resolve[T](Parameter[] parameters) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\NinjectEngine.cs:行号 82
+   在 Bsc.Dmtds.Sites.Services.ServiceFactory.get_SiteManager() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Services\ServiceFactory.cs:行号 152
+   在 Bsc.Dmtds.Sites.Web.FrontHttpRequestWrapper.ResolveSite() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontHttpRequestWrapper.cs:行号 160
+   在 Bsc.Dmtds.Sites.Web.FrontHttpContextWrapper.get_Request() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontHttpContextWrapper.cs:行号 24
+   在 System.Web.Routing.RouteCollection.GetRouteData(HttpContextBase httpContext)
+   在 System.Web.Routing.UrlRoutingModule.PostResolveRequestCache(HttpContextBase context)
+   在 Bsc.Dmtds.Sites.Web.FrontUrlRoutingModule.application_PostResolveRequestCache(Object sender, EventArgs e) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontUrlRoutingModule.cs:行号 17
+   在 System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+--------------------------------------------------------------------------------------------------------
+事件代码: 3005
+事件消息: 发生了未经处理的异常。
+事件时间: 2015/7/22 11:26:42
+事件时间(UTC): 2015/7/22 3:26:42
+事件 ID: e17fb1c264154607b88d1496cee41dfa
+事件序列: 3
+事件匹配项: 1
+事件详细信息代码: 0
+
+应用程序信息:
+    应用程序域: /LM/W3SVC/2/ROOT-7-130820089809911860
+    信任级别: Full
+    应用程序虚拟路径: /
+    应用程序路径: D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\
+    计算机名称: VS-PC
+
+进程信息:
+    进程 ID: 7180
+    进程名: w3wp.exe
+    帐户名: NT AUTHORITY\SYSTEM
+
+异常信息:
+    异常类型: Ninject.ActivationException
+    异常消息: Error activating ISiteProvider
+No matching bindings are available, and the type is not self-bindable.
+Activation path:
+  2) Injection of dependency ISiteProvider into parameter provider of constructor of type SiteManager
+  1) Request for SiteManager
+
+Suggestions:
+  1) Ensure that you have defined a binding for ISiteProvider.
+  2) If the binding was defined in a module, ensure that the module has been loaded into the kernel.
+  3) Ensure you have not accidentally created more than one kernel.
+  4) If you are using constructor arguments, ensure that the parameter name matches the constructors parameter name.
+  5) If you are using automatic module loading, ensure the search path and filters are correct.
+
+
+请求信息:
+    请求 URL: http://localhost/
+    请求路径: /
+    用户主机地址: ::1
+    用户: 
+    通过身份验证: False
+    身份验证类型: 
+    线程帐户名: NT AUTHORITY\SYSTEM
+
+线程信息:
+    线程 ID: 62
+    线程帐户名: NT AUTHORITY\SYSTEM
+    正在模拟: False
+    堆栈跟踪:    在 Ninject.KernelBase.Resolve(IRequest request)
+   在 Bsc.Dmtds.Ninject.ContainerManager.KernelWrapper.Resolve(IRequest request) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\ContainerManager.cs:行号 44
+   在 Ninject.Planning.Targets.Target`1.GetValue(Type service, IContext parent)
+   在 System.Linq.Enumerable.WhereSelectArrayIterator`2.MoveNext()
+   在 System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   在 System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   在 Ninject.Activation.Providers.StandardProvider.Create(IContext context)
+   在 Ninject.Activation.Context.Resolve()
+   在 System.Linq.Enumerable.<>c__DisplayClass12`3.<CombineSelectors>b__11(TSource x)
+   在 System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   在 System.Linq.Enumerable.<CastIterator>d__b1`1.MoveNext()
+   在 System.Linq.Enumerable.Single[TSource](IEnumerable`1 source)
+   在 Bsc.Dmtds.Ninject.ContainerManager.Resolve[T](String key, Parameter[] parameters) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\ContainerManager.cs:行号 147
+   在 Bsc.Dmtds.Ninject.NinjectEngine.Resolve[T](Parameter[] parameters) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\NinjectEngine.cs:行号 82
+   在 Bsc.Dmtds.Sites.Services.ServiceFactory.get_SiteManager() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Services\ServiceFactory.cs:行号 152
+   在 Bsc.Dmtds.Sites.Web.FrontHttpRequestWrapper.ResolveSite() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontHttpRequestWrapper.cs:行号 160
+   在 Bsc.Dmtds.Sites.Web.FrontHttpContextWrapper.get_Request() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontHttpContextWrapper.cs:行号 24
+   在 System.Web.Routing.RouteCollection.GetRouteData(HttpContextBase httpContext)
+   在 System.Web.Routing.UrlRoutingModule.PostResolveRequestCache(HttpContextBase context)
+   在 Bsc.Dmtds.Sites.Web.FrontUrlRoutingModule.application_PostResolveRequestCache(Object sender, EventArgs e) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontUrlRoutingModule.cs:行号 17
+   在 System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+--------------------------------------------------------------------------------------------------------
+事件代码: 3005
+事件消息: 发生了未经处理的异常。
+事件时间: 2015/7/22 11:28:56
+事件时间(UTC): 2015/7/22 3:28:56
+事件 ID: 00c1a89ec59d45628a14773b68de08d1
+事件序列: 5
+事件匹配项: 2
+事件详细信息代码: 0
+
+应用程序信息:
+    应用程序域: /LM/W3SVC/2/ROOT-7-130820089809911860
+    信任级别: Full
+    应用程序虚拟路径: /
+    应用程序路径: D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\
+    计算机名称: VS-PC
+
+进程信息:
+    进程 ID: 7180
+    进程名: w3wp.exe
+    帐户名: NT AUTHORITY\SYSTEM
+
+异常信息:
+    异常类型: Ninject.ActivationException
+    异常消息: Error activating ISiteProvider
+No matching bindings are available, and the type is not self-bindable.
+Activation path:
+  2) Injection of dependency ISiteProvider into parameter provider of constructor of type SiteManager
+  1) Request for SiteManager
+
+Suggestions:
+  1) Ensure that you have defined a binding for ISiteProvider.
+  2) If the binding was defined in a module, ensure that the module has been loaded into the kernel.
+  3) Ensure you have not accidentally created more than one kernel.
+  4) If you are using constructor arguments, ensure that the parameter name matches the constructors parameter name.
+  5) If you are using automatic module loading, ensure the search path and filters are correct.
+
+
+请求信息:
+    请求 URL: http://localhost/
+    请求路径: /
+    用户主机地址: ::1
+    用户: 
+    通过身份验证: False
+    身份验证类型: 
+    线程帐户名: NT AUTHORITY\SYSTEM
+
+线程信息:
+    线程 ID: 62
+    线程帐户名: NT AUTHORITY\SYSTEM
+    正在模拟: False
+    堆栈跟踪:    在 Ninject.KernelBase.Resolve(IRequest request)
+   在 Bsc.Dmtds.Ninject.ContainerManager.KernelWrapper.Resolve(IRequest request) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\ContainerManager.cs:行号 44
+   在 Ninject.Planning.Targets.Target`1.GetValue(Type service, IContext parent)
+   在 System.Linq.Enumerable.WhereSelectArrayIterator`2.MoveNext()
+   在 System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   在 System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   在 Ninject.Activation.Providers.StandardProvider.Create(IContext context)
+   在 Ninject.Activation.Context.Resolve()
+   在 System.Linq.Enumerable.<>c__DisplayClass12`3.<CombineSelectors>b__11(TSource x)
+   在 System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   在 System.Linq.Enumerable.<CastIterator>d__b1`1.MoveNext()
+   在 System.Linq.Enumerable.Single[TSource](IEnumerable`1 source)
+   在 Bsc.Dmtds.Ninject.ContainerManager.Resolve[T](String key, Parameter[] parameters) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\ContainerManager.cs:行号 147
+   在 Bsc.Dmtds.Ninject.NinjectEngine.Resolve[T](Parameter[] parameters) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\NinjectEngine.cs:行号 82
+   在 Bsc.Dmtds.Sites.Services.ServiceFactory.get_SiteManager() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Services\ServiceFactory.cs:行号 152
+   在 Bsc.Dmtds.Sites.Web.FrontHttpRequestWrapper.ResolveSite() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontHttpRequestWrapper.cs:行号 160
+   在 Bsc.Dmtds.Sites.Web.FrontHttpContextWrapper.get_Request() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontHttpContextWrapper.cs:行号 24
+   在 System.Web.Routing.RouteCollection.GetRouteData(HttpContextBase httpContext)
+   在 System.Web.Routing.UrlRoutingModule.PostResolveRequestCache(HttpContextBase context)
+   在 Bsc.Dmtds.Sites.Web.FrontUrlRoutingModule.application_PostResolveRequestCache(Object sender, EventArgs e) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontUrlRoutingModule.cs:行号 17
+   在 System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+--------------------------------------------------------------------------------------------------------
+事件代码: 3005
+事件消息: 发生了未经处理的异常。
+事件时间: 2015/7/22 11:36:56
+事件时间(UTC): 2015/7/22 3:36:56
+事件 ID: 4864b827611649bda17cb72a75c90710
+事件序列: 5
+事件匹配项: 1
+事件详细信息代码: 0
+
+应用程序信息:
+    应用程序域: /LM/W3SVC/2/ROOT-8-130820096803501870
+    信任级别: Full
+    应用程序虚拟路径: /
+    应用程序路径: D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\
+    计算机名称: VS-PC
+
+进程信息:
+    进程 ID: 7180
+    进程名: w3wp.exe
+    帐户名: NT AUTHORITY\SYSTEM
+
+异常信息:
+    异常类型: Ninject.ActivationException
+    异常消息: Error activating ISiteProvider
+No matching bindings are available, and the type is not self-bindable.
+Activation path:
+  2) Injection of dependency ISiteProvider into parameter provider of constructor of type SiteManager
+  1) Request for SiteManager
+
+Suggestions:
+  1) Ensure that you have defined a binding for ISiteProvider.
+  2) If the binding was defined in a module, ensure that the module has been loaded into the kernel.
+  3) Ensure you have not accidentally created more than one kernel.
+  4) If you are using constructor arguments, ensure that the parameter name matches the constructors parameter name.
+  5) If you are using automatic module loading, ensure the search path and filters are correct.
+
+
+请求信息:
+    请求 URL: http://localhost/
+    请求路径: /
+    用户主机地址: ::1
+    用户: 
+    通过身份验证: False
+    身份验证类型: 
+    线程帐户名: NT AUTHORITY\SYSTEM
+
+线程信息:
+    线程 ID: 64
+    线程帐户名: NT AUTHORITY\SYSTEM
+    正在模拟: False
+    堆栈跟踪:    在 Ninject.KernelBase.Resolve(IRequest request)
+   在 Bsc.Dmtds.Ninject.ContainerManager.KernelWrapper.Resolve(IRequest request) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\ContainerManager.cs:行号 44
+   在 Ninject.Planning.Targets.Target`1.GetValue(Type service, IContext parent)
+   在 System.Linq.Enumerable.WhereSelectArrayIterator`2.MoveNext()
+   在 System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   在 System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   在 Ninject.Activation.Providers.StandardProvider.Create(IContext context)
+   在 Ninject.Activation.Context.Resolve()
+   在 System.Linq.Enumerable.<>c__DisplayClass12`3.<CombineSelectors>b__11(TSource x)
+   在 System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   在 System.Linq.Enumerable.<CastIterator>d__b1`1.MoveNext()
+   在 System.Linq.Enumerable.Single[TSource](IEnumerable`1 source)
+   在 Bsc.Dmtds.Ninject.ContainerManager.Resolve[T](String key, Parameter[] parameters) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\ContainerManager.cs:行号 147
+   在 Bsc.Dmtds.Ninject.NinjectEngine.Resolve[T](Parameter[] parameters) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\NinjectEngine.cs:行号 82
+   在 Bsc.Dmtds.Sites.Services.ServiceFactory.get_SiteManager() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Services\ServiceFactory.cs:行号 152
+   在 Bsc.Dmtds.Sites.Web.FrontHttpRequestWrapper.ResolveSite() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontHttpRequestWrapper.cs:行号 160
+   在 Bsc.Dmtds.Sites.Web.FrontHttpContextWrapper.get_Request() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontHttpContextWrapper.cs:行号 24
+   在 System.Web.Routing.RouteCollection.GetRouteData(HttpContextBase httpContext)
+   在 System.Web.Routing.UrlRoutingModule.PostResolveRequestCache(HttpContextBase context)
+   在 Bsc.Dmtds.Sites.Web.FrontUrlRoutingModule.application_PostResolveRequestCache(Object sender, EventArgs e) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontUrlRoutingModule.cs:行号 17
+   在 System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+--------------------------------------------------------------------------------------------------------
+事件代码: 3005
+事件消息: 发生了未经处理的异常。
+事件时间: 2015/7/22 13:54:24
+事件时间(UTC): 2015/7/22 5:54:24
+事件 ID: a2d824901447431895fdffb35e13e6e8
+事件序列: 3
+事件匹配项: 1
+事件详细信息代码: 0
+
+应用程序信息:
+    应用程序域: /LM/W3SVC/2/ROOT-2-130820140404415700
+    信任级别: Full
+    应用程序虚拟路径: /
+    应用程序路径: D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\
+    计算机名称: VS-PC
+
+进程信息:
+    进程 ID: 8044
+    进程名: w3wp.exe
+    帐户名: NT AUTHORITY\SYSTEM
+
+异常信息:
+    异常类型: Ninject.ActivationException
+    异常消息: Error activating ISiteProvider
+No matching bindings are available, and the type is not self-bindable.
+Activation path:
+  2) Injection of dependency ISiteProvider into parameter provider of constructor of type SiteManager
+  1) Request for SiteManager
+
+Suggestions:
+  1) Ensure that you have defined a binding for ISiteProvider.
+  2) If the binding was defined in a module, ensure that the module has been loaded into the kernel.
+  3) Ensure you have not accidentally created more than one kernel.
+  4) If you are using constructor arguments, ensure that the parameter name matches the constructors parameter name.
+  5) If you are using automatic module loading, ensure the search path and filters are correct.
+
+
+请求信息:
+    请求 URL: http://localhost/
+    请求路径: /
+    用户主机地址: ::1
+    用户: 
+    通过身份验证: False
+    身份验证类型: 
+    线程帐户名: NT AUTHORITY\SYSTEM
+
+线程信息:
+    线程 ID: 23
+    线程帐户名: NT AUTHORITY\SYSTEM
+    正在模拟: False
+    堆栈跟踪:    在 Ninject.KernelBase.Resolve(IRequest request)
+   在 Bsc.Dmtds.Ninject.ContainerManager.KernelWrapper.Resolve(IRequest request) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\ContainerManager.cs:行号 44
+   在 Ninject.Planning.Targets.Target`1.GetValue(Type service, IContext parent)
+   在 System.Linq.Enumerable.WhereSelectArrayIterator`2.MoveNext()
+   在 System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   在 System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   在 Ninject.Activation.Providers.StandardProvider.Create(IContext context)
+   在 Ninject.Activation.Context.Resolve()
+   在 System.Linq.Enumerable.<>c__DisplayClass12`3.<CombineSelectors>b__11(TSource x)
+   在 System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   在 System.Linq.Enumerable.<CastIterator>d__b1`1.MoveNext()
+   在 System.Linq.Enumerable.Single[TSource](IEnumerable`1 source)
+   在 Bsc.Dmtds.Ninject.ContainerManager.Resolve[T](String key, Parameter[] parameters) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\ContainerManager.cs:行号 147
+   在 Bsc.Dmtds.Ninject.NinjectEngine.Resolve[T](Parameter[] parameters) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\NinjectEngine.cs:行号 82
+   在 Bsc.Dmtds.Sites.Services.ServiceFactory.get_SiteManager() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Services\ServiceFactory.cs:行号 152
+   在 Bsc.Dmtds.Sites.Web.FrontHttpRequestWrapper.ResolveSite() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontHttpRequestWrapper.cs:行号 160
+   在 Bsc.Dmtds.Sites.Web.FrontHttpContextWrapper.get_Request() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontHttpContextWrapper.cs:行号 24
+   在 System.Web.Routing.RouteCollection.GetRouteData(HttpContextBase httpContext)
+   在 System.Web.Routing.UrlRoutingModule.PostResolveRequestCache(HttpContextBase context)
+   在 Bsc.Dmtds.Sites.Web.FrontUrlRoutingModule.application_PostResolveRequestCache(Object sender, EventArgs e) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontUrlRoutingModule.cs:行号 17
+   在 System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+--------------------------------------------------------------------------------------------------------
+事件代码: 3005
+事件消息: 发生了未经处理的异常。
+事件时间: 2015/7/22 14:23:50
+事件时间(UTC): 2015/7/22 6:23:50
+事件 ID: 65546968bd2e401a971921210bd27347
+事件序列: 5
+事件匹配项: 1
+事件详细信息代码: 0
+
+应用程序信息:
+    应用程序域: /LM/W3SVC/2/ROOT-4-130820188927483979
+    信任级别: Full
+    应用程序虚拟路径: /
+    应用程序路径: D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\
+    计算机名称: VS-PC
+
+进程信息:
+    进程 ID: 8044
+    进程名: w3wp.exe
+    帐户名: NT AUTHORITY\SYSTEM
+
+异常信息:
+    异常类型: Ninject.ActivationException
+    异常消息: Error activating ISiteProvider
+No matching bindings are available, and the type is not self-bindable.
+Activation path:
+  2) Injection of dependency ISiteProvider into parameter provider of constructor of type SiteManager
+  1) Request for SiteManager
+
+Suggestions:
+  1) Ensure that you have defined a binding for ISiteProvider.
+  2) If the binding was defined in a module, ensure that the module has been loaded into the kernel.
+  3) Ensure you have not accidentally created more than one kernel.
+  4) If you are using constructor arguments, ensure that the parameter name matches the constructors parameter name.
+  5) If you are using automatic module loading, ensure the search path and filters are correct.
+
+
+请求信息:
+    请求 URL: http://localhost/
+    请求路径: /
+    用户主机地址: ::1
+    用户: 
+    通过身份验证: False
+    身份验证类型: 
+    线程帐户名: NT AUTHORITY\SYSTEM
+
+线程信息:
+    线程 ID: 41
+    线程帐户名: NT AUTHORITY\SYSTEM
+    正在模拟: False
+    堆栈跟踪:    在 Ninject.KernelBase.Resolve(IRequest request)
+   在 Bsc.Dmtds.Ninject.ContainerManager.KernelWrapper.Resolve(IRequest request) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\ContainerManager.cs:行号 44
+   在 Ninject.Planning.Targets.Target`1.GetValue(Type service, IContext parent)
+   在 System.Linq.Enumerable.WhereSelectArrayIterator`2.MoveNext()
+   在 System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   在 System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   在 Ninject.Activation.Providers.StandardProvider.Create(IContext context)
+   在 Ninject.Activation.Context.Resolve()
+   在 System.Linq.Enumerable.<>c__DisplayClass12`3.<CombineSelectors>b__11(TSource x)
+   在 System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   在 System.Linq.Enumerable.<CastIterator>d__b1`1.MoveNext()
+   在 System.Linq.Enumerable.Single[TSource](IEnumerable`1 source)
+   在 Bsc.Dmtds.Ninject.ContainerManager.Resolve[T](String key, Parameter[] parameters) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\ContainerManager.cs:行号 147
+   在 Bsc.Dmtds.Ninject.NinjectEngine.Resolve[T](Parameter[] parameters) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\NinjectEngine.cs:行号 82
+   在 Bsc.Dmtds.Sites.Services.ServiceFactory.get_SiteManager() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Services\ServiceFactory.cs:行号 152
+   在 Bsc.Dmtds.Sites.Web.FrontHttpRequestWrapper.ResolveSite() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontHttpRequestWrapper.cs:行号 160
+   在 Bsc.Dmtds.Sites.Web.FrontHttpContextWrapper.get_Request() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontHttpContextWrapper.cs:行号 24
+   在 System.Web.Routing.RouteCollection.GetRouteData(HttpContextBase httpContext)
+   在 System.Web.Routing.UrlRoutingModule.PostResolveRequestCache(HttpContextBase context)
+   在 Bsc.Dmtds.Sites.Web.FrontUrlRoutingModule.application_PostResolveRequestCache(Object sender, EventArgs e) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontUrlRoutingModule.cs:行号 17
+   在 System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+--------------------------------------------------------------------------------------------------------
+事件代码: 3005
+事件消息: 发生了未经处理的异常。
+事件时间: 2015/7/22 14:43:53
+事件时间(UTC): 2015/7/22 6:43:53
+事件 ID: 2a5e6fc69d574ddfb0f30cbe618b7a51
+事件序列: 5
+事件匹配项: 1
+事件详细信息代码: 0
+
+应用程序信息:
+    应用程序域: /LM/W3SVC/2/ROOT-5-130820209508113616
+    信任级别: Full
+    应用程序虚拟路径: /
+    应用程序路径: D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\
+    计算机名称: VS-PC
+
+进程信息:
+    进程 ID: 8044
+    进程名: w3wp.exe
+    帐户名: NT AUTHORITY\SYSTEM
+
+异常信息:
+    异常类型: Ninject.ActivationException
+    异常消息: Error activating IABPageSettingProvider
+No matching bindings are available, and the type is not self-bindable.
+Activation path:
+  3) Injection of dependency IABPageSettingProvider into parameter provider of constructor of type ABPageSettingManager
+  2) Injection of dependency ABPageSettingManager into parameter pageVisitRuleManager of constructor of type ABPageTestRequestModule
+  1) Request for IPageRequestModule
+
+Suggestions:
+  1) Ensure that you have defined a binding for IABPageSettingProvider.
+  2) If the binding was defined in a module, ensure that the module has been loaded into the kernel.
+  3) Ensure you have not accidentally created more than one kernel.
+  4) If you are using constructor arguments, ensure that the parameter name matches the constructors parameter name.
+  5) If you are using automatic module loading, ensure the search path and filters are correct.
+
+
+请求信息:
+    请求 URL: http://localhost/
+    请求路径: /
+    用户主机地址: ::1
+    用户: 
+    通过身份验证: False
+    身份验证类型: 
+    线程帐户名: NT AUTHORITY\SYSTEM
+
+线程信息:
+    线程 ID: 70
+    线程帐户名: NT AUTHORITY\SYSTEM
+    正在模拟: False
+    堆栈跟踪:    在 Ninject.KernelBase.Resolve(IRequest request)
+   在 Bsc.Dmtds.Ninject.ContainerManager.KernelWrapper.Resolve(IRequest request) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\ContainerManager.cs:行号 44
+   在 Ninject.Planning.Targets.Target`1.GetValue(Type service, IContext parent)
+   在 System.Linq.Enumerable.WhereSelectArrayIterator`2.MoveNext()
+   在 System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   在 System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   在 Ninject.Activation.Providers.StandardProvider.Create(IContext context)
+   在 Ninject.Activation.Context.Resolve()
+   在 System.Linq.Enumerable.<>c__DisplayClass12`3.<CombineSelectors>b__11(TSource x)
+   在 System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   在 System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source)
+   在 System.Linq.Enumerable.WhereSelectArrayIterator`2.MoveNext()
+   在 System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   在 System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   在 Ninject.Activation.Providers.StandardProvider.Create(IContext context)
+   在 Ninject.Activation.Context.Resolve()
+   在 System.Linq.Enumerable.<>c__DisplayClass12`3.<CombineSelectors>b__11(TSource x)
+   在 System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
+   在 System.Linq.Enumerable.<CastIterator>d__b1`1.MoveNext()
+   在 System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   在 System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   在 Bsc.Dmtds.Ninject.ContainerManager.ResolveAll[T](String key) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\ContainerManager.cs:行号 167
+   在 Bsc.Dmtds.Ninject.NinjectEngine.ResolveAll[T]() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\NinjectEngine.cs:行号 130
+   在 Bsc.Dmtds.Sites.Extension.PageRequestModuleExecutor.ExecuteModules(Action`1 action) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Extension\PageRequestModuleExecutor.cs:行号 13
+   在 Bsc.Dmtds.Sites.Extension.PageRequestModuleExecutor.OnResolvingSite(HttpContextBase httpContext) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Extension\PageRequestModuleExecutor.cs:行号 21
+   在 Bsc.Dmtds.Sites.Web.FrontHttpContextWrapper.get_Request() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontHttpContextWrapper.cs:行号 23
+   在 System.Web.Routing.RouteCollection.GetRouteData(HttpContextBase httpContext)
+   在 System.Web.Routing.UrlRoutingModule.PostResolveRequestCache(HttpContextBase context)
+   在 Bsc.Dmtds.Sites.Web.FrontUrlRoutingModule.application_PostResolveRequestCache(Object sender, EventArgs e) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontUrlRoutingModule.cs:行号 17
+   在 System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+--------------------------------------------------------------------------------------------------------
+事件代码: 3005
+事件消息: 发生了未经处理的异常。
+事件时间: 2015/7/22 14:46:32
+事件时间(UTC): 2015/7/22 6:46:32
+事件 ID: ae2852412b2042038b986ff83b9160d1
+事件序列: 5
+事件匹配项: 1
+事件详细信息代码: 0
+
+应用程序信息:
+    应用程序域: /LM/W3SVC/2/ROOT-6-130820211396641260
+    信任级别: Full
+    应用程序虚拟路径: /
+    应用程序路径: D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\
+    计算机名称: VS-PC
+
+进程信息:
+    进程 ID: 8044
+    进程名: w3wp.exe
+    帐户名: NT AUTHORITY\SYSTEM
+
+异常信息:
+    异常类型: Ninject.ActivationException
+    异常消息: Error activating IABPageTestResultProvider
+No matching bindings are available, and the type is not self-bindable.
+Activation path:
+  4) Injection of dependency IABPageTestResultProvider into parameter provider of constructor of type ABPageTestResultManager
+  3) Injection of dependency ABPageTestResultManager into parameter abPageTestResultManager of constructor of type ABPageSettingManager
+  2) Injection of dependency ABPageSettingManager into parameter pageVisitRuleManager of constructor of type ABPageTestRequestModule
+  1) Request for IPageRequestModule
+
+Suggestions:
+  1) Ensure that you have defined a binding for IABPageTestResultProvider.
+  2) If the binding was defined in a module, ensure that the module has been loaded into the kernel.
+  3) Ensure you have not accidentally created more than one kernel.
+  4) If you are using constructor arguments, ensure that the parameter name matches the constructors parameter name.
+  5) If you are using automatic module loading, ensure the search path and filters are correct.
+
+
+请求信息:
+    请求 URL: http://localhost/
+    请求路径: /
+    用户主机地址: ::1
+    用户: 
+    通过身份验证: False
+    身份验证类型: 
+    线程帐户名: NT AUTHORITY\SYSTEM
+
+线程信息:
+    线程 ID: 70
+    线程帐户名: NT AUTHORITY\SYSTEM
+    正在模拟: False
+    堆栈跟踪:    在 Ninject.KernelBase.Resolve(IRequest request)
+   在 Bsc.Dmtds.Ninject.ContainerManager.KernelWrapper.Resolve(IRequest request) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\ContainerManager.cs:行号 44
+   在 Ninject.Planning.Targets.Target`1.GetValue(Type service, IContext parent)
+   在 System.Linq.Enumerable.WhereSelectArrayIterator`2.MoveNext()
+   在 System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   在 System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   在 Ninject.Activation.Providers.StandardProvider.Create(IContext context)
+   在 Ninject.Activation.Context.Resolve()
+   在 System.Linq.Enumerable.<>c__DisplayClass12`3.<CombineSelectors>b__11(TSource x)
+   在 System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   在 System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source)
+   在 System.Linq.Enumerable.WhereSelectArrayIterator`2.MoveNext()
+   在 System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   在 System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   在 Ninject.Activation.Providers.StandardProvider.Create(IContext context)
+   在 Ninject.Activation.Context.Resolve()
+   在 System.Linq.Enumerable.<>c__DisplayClass12`3.<CombineSelectors>b__11(TSource x)
+   在 System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   在 System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source)
+   在 System.Linq.Enumerable.WhereSelectArrayIterator`2.MoveNext()
+   在 System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   在 System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   在 Ninject.Activation.Providers.StandardProvider.Create(IContext context)
+   在 Ninject.Activation.Context.Resolve()
+   在 System.Linq.Enumerable.<>c__DisplayClass12`3.<CombineSelectors>b__11(TSource x)
+   在 System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
+   在 System.Linq.Enumerable.<CastIterator>d__b1`1.MoveNext()
+   在 System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   在 System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   在 Bsc.Dmtds.Ninject.ContainerManager.ResolveAll[T](String key) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\ContainerManager.cs:行号 167
+   在 Bsc.Dmtds.Ninject.NinjectEngine.ResolveAll[T]() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\NinjectEngine.cs:行号 130
+   在 Bsc.Dmtds.Sites.Extension.PageRequestModuleExecutor.ExecuteModules(Action`1 action) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Extension\PageRequestModuleExecutor.cs:行号 13
+   在 Bsc.Dmtds.Sites.Extension.PageRequestModuleExecutor.OnResolvingSite(HttpContextBase httpContext) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Extension\PageRequestModuleExecutor.cs:行号 21
+   在 Bsc.Dmtds.Sites.Web.FrontHttpContextWrapper.get_Request() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontHttpContextWrapper.cs:行号 23
+   在 System.Web.Routing.RouteCollection.GetRouteData(HttpContextBase httpContext)
+   在 System.Web.Routing.UrlRoutingModule.PostResolveRequestCache(HttpContextBase context)
+   在 Bsc.Dmtds.Sites.Web.FrontUrlRoutingModule.application_PostResolveRequestCache(Object sender, EventArgs e) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontUrlRoutingModule.cs:行号 17
+   在 System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+--------------------------------------------------------------------------------------------------------
+事件代码: 3005
+事件消息: 发生了未经处理的异常。
+事件时间: 2015/7/22 14:49:22
+事件时间(UTC): 2015/7/22 6:49:22
+事件 ID: 93a6157acf984acc9036b61844a3e4bd
+事件序列: 5
+事件匹配项: 1
+事件详细信息代码: 0
+
+应用程序信息:
+    应用程序域: /LM/W3SVC/2/ROOT-7-130820212510100717
+    信任级别: Full
+    应用程序虚拟路径: /
+    应用程序路径: D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\
+    计算机名称: VS-PC
+
+进程信息:
+    进程 ID: 8044
+    进程名: w3wp.exe
+    帐户名: NT AUTHORITY\SYSTEM
+
+异常信息:
+    异常类型: Ninject.ActivationException
+    异常消息: Error activating IMembershipProvider
+No matching bindings are available, and the type is not self-bindable.
+Activation path:
+  3) Injection of dependency IMembershipProvider into parameter membershipProvider of constructor of type SiteProvider
+  2) Injection of dependency ISiteProvider into parameter provider of constructor of type SiteManager
+  1) Request for SiteManager
+
+Suggestions:
+  1) Ensure that you have defined a binding for IMembershipProvider.
+  2) If the binding was defined in a module, ensure that the module has been loaded into the kernel.
+  3) Ensure you have not accidentally created more than one kernel.
+  4) If you are using constructor arguments, ensure that the parameter name matches the constructors parameter name.
+  5) If you are using automatic module loading, ensure the search path and filters are correct.
+
+
+请求信息:
+    请求 URL: http://localhost/
+    请求路径: /
+    用户主机地址: ::1
+    用户: 
+    通过身份验证: False
+    身份验证类型: 
+    线程帐户名: NT AUTHORITY\SYSTEM
+
+线程信息:
+    线程 ID: 75
+    线程帐户名: NT AUTHORITY\SYSTEM
+    正在模拟: False
+    堆栈跟踪:    在 Ninject.KernelBase.Resolve(IRequest request)
+   在 Bsc.Dmtds.Ninject.ContainerManager.KernelWrapper.Resolve(IRequest request) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\ContainerManager.cs:行号 44
+   在 Ninject.Planning.Targets.Target`1.GetValue(Type service, IContext parent)
+   在 System.Linq.Enumerable.WhereSelectArrayIterator`2.MoveNext()
+   在 System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   在 System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   在 Ninject.Activation.Providers.StandardProvider.Create(IContext context)
+   在 Ninject.Activation.Context.Resolve()
+   在 System.Linq.Enumerable.<>c__DisplayClass12`3.<CombineSelectors>b__11(TSource x)
+   在 System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   在 System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source)
+   在 System.Linq.Enumerable.WhereSelectArrayIterator`2.MoveNext()
+   在 System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   在 System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   在 Ninject.Activation.Providers.StandardProvider.Create(IContext context)
+   在 Ninject.Activation.Context.Resolve()
+   在 System.Linq.Enumerable.<>c__DisplayClass12`3.<CombineSelectors>b__11(TSource x)
+   在 System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   在 System.Linq.Enumerable.<CastIterator>d__b1`1.MoveNext()
+   在 System.Linq.Enumerable.Single[TSource](IEnumerable`1 source)
+   在 Bsc.Dmtds.Ninject.ContainerManager.Resolve[T](String key, Parameter[] parameters) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\ContainerManager.cs:行号 147
+   在 Bsc.Dmtds.Ninject.NinjectEngine.Resolve[T](Parameter[] parameters) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\NinjectEngine.cs:行号 82
+   在 Bsc.Dmtds.Sites.Services.ServiceFactory.get_SiteManager() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Services\ServiceFactory.cs:行号 152
+   在 Bsc.Dmtds.Sites.Web.FrontHttpRequestWrapper.ResolveSite() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontHttpRequestWrapper.cs:行号 160
+   在 Bsc.Dmtds.Sites.Web.FrontHttpContextWrapper.get_Request() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontHttpContextWrapper.cs:行号 24
+   在 System.Web.Routing.RouteCollection.GetRouteData(HttpContextBase httpContext)
+   在 System.Web.Routing.UrlRoutingModule.PostResolveRequestCache(HttpContextBase context)
+   在 Bsc.Dmtds.Sites.Web.FrontUrlRoutingModule.application_PostResolveRequestCache(Object sender, EventArgs e) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontUrlRoutingModule.cs:行号 17
+   在 System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+--------------------------------------------------------------------------------------------------------
+事件代码: 3005
+事件消息: 发生了未经处理的异常。
+事件时间: 2015/7/22 14:54:20
+事件时间(UTC): 2015/7/22 6:54:20
+事件 ID: 770281716eb94382b967ad96646e0eda
+事件序列: 5
+事件匹配项: 1
+事件详细信息代码: 0
+
+应用程序信息:
+    应用程序域: /LM/W3SVC/2/ROOT-8-130820215959774177
+    信任级别: Full
+    应用程序虚拟路径: /
+    应用程序路径: D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\
+    计算机名称: VS-PC
+
+进程信息:
+    进程 ID: 8044
+    进程名: w3wp.exe
+    帐户名: NT AUTHORITY\SYSTEM
+
+异常信息:
+    异常类型: Ninject.ActivationException
+    异常消息: Error activating IMembershipProvider
+No matching bindings are available, and the type is not self-bindable.
+Activation path:
+  3) Injection of dependency IMembershipProvider into parameter membershipProvider of constructor of type SiteProvider
+  2) Injection of dependency ISiteProvider into parameter provider of constructor of type SiteManager
+  1) Request for SiteManager
+
+Suggestions:
+  1) Ensure that you have defined a binding for IMembershipProvider.
+  2) If the binding was defined in a module, ensure that the module has been loaded into the kernel.
+  3) Ensure you have not accidentally created more than one kernel.
+  4) If you are using constructor arguments, ensure that the parameter name matches the constructors parameter name.
+  5) If you are using automatic module loading, ensure the search path and filters are correct.
+
+
+请求信息:
+    请求 URL: http://localhost/
+    请求路径: /
+    用户主机地址: ::1
+    用户: 
+    通过身份验证: False
+    身份验证类型: 
+    线程帐户名: NT AUTHORITY\SYSTEM
+
+线程信息:
+    线程 ID: 67
+    线程帐户名: NT AUTHORITY\SYSTEM
+    正在模拟: False
+    堆栈跟踪:    在 Ninject.KernelBase.Resolve(IRequest request)
+   在 Bsc.Dmtds.Ninject.ContainerManager.KernelWrapper.Resolve(IRequest request) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\ContainerManager.cs:行号 44
+   在 Ninject.Planning.Targets.Target`1.GetValue(Type service, IContext parent)
+   在 System.Linq.Enumerable.WhereSelectArrayIterator`2.MoveNext()
+   在 System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   在 System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   在 Ninject.Activation.Providers.StandardProvider.Create(IContext context)
+   在 Ninject.Activation.Context.Resolve()
+   在 System.Linq.Enumerable.<>c__DisplayClass12`3.<CombineSelectors>b__11(TSource x)
+   在 System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   在 System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source)
+   在 System.Linq.Enumerable.WhereSelectArrayIterator`2.MoveNext()
+   在 System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   在 System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   在 Ninject.Activation.Providers.StandardProvider.Create(IContext context)
+   在 Ninject.Activation.Context.Resolve()
+   在 System.Linq.Enumerable.<>c__DisplayClass12`3.<CombineSelectors>b__11(TSource x)
+   在 System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   在 System.Linq.Enumerable.<CastIterator>d__b1`1.MoveNext()
+   在 System.Linq.Enumerable.Single[TSource](IEnumerable`1 source)
+   在 Bsc.Dmtds.Ninject.ContainerManager.Resolve[T](String key, Parameter[] parameters) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\ContainerManager.cs:行号 147
+   在 Bsc.Dmtds.Ninject.NinjectEngine.Resolve[T](Parameter[] parameters) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\NinjectEngine.cs:行号 82
+   在 Bsc.Dmtds.Sites.Services.ServiceFactory.get_SiteManager() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Services\ServiceFactory.cs:行号 152
+   在 Bsc.Dmtds.Sites.Web.FrontHttpRequestWrapper.ResolveSite() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontHttpRequestWrapper.cs:行号 160
+   在 Bsc.Dmtds.Sites.Web.FrontHttpContextWrapper.get_Request() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontHttpContextWrapper.cs:行号 24
+   在 System.Web.Routing.RouteCollection.GetRouteData(HttpContextBase httpContext)
+   在 System.Web.Routing.UrlRoutingModule.PostResolveRequestCache(HttpContextBase context)
+   在 Bsc.Dmtds.Sites.Web.FrontUrlRoutingModule.application_PostResolveRequestCache(Object sender, EventArgs e) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontUrlRoutingModule.cs:行号 17
+   在 System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+--------------------------------------------------------------------------------------------------------
+事件代码: 3005
+事件消息: 发生了未经处理的异常。
+事件时间: 2015/7/22 14:55:49
+事件时间(UTC): 2015/7/22 6:55:49
+事件 ID: fc36863211294425af0320b511b8c429
+事件序列: 5
+事件匹配项: 1
+事件详细信息代码: 0
+
+应用程序信息:
+    应用程序域: /LM/W3SVC/2/ROOT-9-130820216980132538
+    信任级别: Full
+    应用程序虚拟路径: /
+    应用程序路径: D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\
+    计算机名称: VS-PC
+
+进程信息:
+    进程 ID: 8044
+    进程名: w3wp.exe
+    帐户名: NT AUTHORITY\SYSTEM
+
+异常信息:
+    异常类型: Ninject.ActivationException
+    异常消息: Error activating IRepositoryProvider
+No matching bindings are available, and the type is not self-bindable.
+Activation path:
+  4) Injection of dependency IRepositoryProvider into parameter provider of constructor of type RepositoryManager
+  3) Injection of dependency RepositoryManager into parameter repositoryManager of constructor of type SiteProvider
+  2) Injection of dependency ISiteProvider into parameter provider of constructor of type SiteManager
+  1) Request for SiteManager
+
+Suggestions:
+  1) Ensure that you have defined a binding for IRepositoryProvider.
+  2) If the binding was defined in a module, ensure that the module has been loaded into the kernel.
+  3) Ensure you have not accidentally created more than one kernel.
+  4) If you are using constructor arguments, ensure that the parameter name matches the constructors parameter name.
+  5) If you are using automatic module loading, ensure the search path and filters are correct.
+
+
+请求信息:
+    请求 URL: http://localhost/
+    请求路径: /
+    用户主机地址: ::1
+    用户: 
+    通过身份验证: False
+    身份验证类型: 
+    线程帐户名: NT AUTHORITY\SYSTEM
+
+线程信息:
+    线程 ID: 67
+    线程帐户名: NT AUTHORITY\SYSTEM
+    正在模拟: False
+    堆栈跟踪:    在 Ninject.KernelBase.Resolve(IRequest request)
+   在 Bsc.Dmtds.Ninject.ContainerManager.KernelWrapper.Resolve(IRequest request) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\ContainerManager.cs:行号 44
+   在 Ninject.Planning.Targets.Target`1.GetValue(Type service, IContext parent)
+   在 System.Linq.Enumerable.WhereSelectArrayIterator`2.MoveNext()
+   在 System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   在 System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   在 Ninject.Activation.Providers.StandardProvider.Create(IContext context)
+   在 Ninject.Activation.Context.Resolve()
+   在 System.Linq.Enumerable.<>c__DisplayClass12`3.<CombineSelectors>b__11(TSource x)
+   在 System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   在 System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source)
+   在 System.Linq.Enumerable.WhereSelectArrayIterator`2.MoveNext()
+   在 System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   在 System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   在 Ninject.Activation.Providers.StandardProvider.Create(IContext context)
+   在 Ninject.Activation.Context.Resolve()
+   在 System.Linq.Enumerable.<>c__DisplayClass12`3.<CombineSelectors>b__11(TSource x)
+   在 System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   在 System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source)
+   在 System.Linq.Enumerable.WhereSelectArrayIterator`2.MoveNext()
+   在 System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   在 System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   在 Ninject.Activation.Providers.StandardProvider.Create(IContext context)
+   在 Ninject.Activation.Context.Resolve()
+   在 System.Linq.Enumerable.<>c__DisplayClass12`3.<CombineSelectors>b__11(TSource x)
+   在 System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   在 System.Linq.Enumerable.<CastIterator>d__b1`1.MoveNext()
+   在 System.Linq.Enumerable.Single[TSource](IEnumerable`1 source)
+   在 Bsc.Dmtds.Ninject.ContainerManager.Resolve[T](String key, Parameter[] parameters) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\ContainerManager.cs:行号 147
+   在 Bsc.Dmtds.Ninject.NinjectEngine.Resolve[T](Parameter[] parameters) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\NinjectEngine.cs:行号 82
+   在 Bsc.Dmtds.Sites.Services.ServiceFactory.get_SiteManager() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Services\ServiceFactory.cs:行号 152
+   在 Bsc.Dmtds.Sites.Web.FrontHttpRequestWrapper.ResolveSite() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontHttpRequestWrapper.cs:行号 160
+   在 Bsc.Dmtds.Sites.Web.FrontHttpContextWrapper.get_Request() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontHttpContextWrapper.cs:行号 24
+   在 System.Web.Routing.RouteCollection.GetRouteData(HttpContextBase httpContext)
+   在 System.Web.Routing.UrlRoutingModule.PostResolveRequestCache(HttpContextBase context)
+   在 Bsc.Dmtds.Sites.Web.FrontUrlRoutingModule.application_PostResolveRequestCache(Object sender, EventArgs e) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontUrlRoutingModule.cs:行号 17
+   在 System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+--------------------------------------------------------------------------------------------------------
+事件代码: 3005
+事件消息: 发生了未经处理的异常。
+事件时间: 2015/7/22 15:26:22
+事件时间(UTC): 2015/7/22 7:26:22
+事件 ID: f619c874f2de4d49a1f1267985f857ec
+事件序列: 5
+事件匹配项: 1
+事件详细信息代码: 0
+
+应用程序信息:
+    应用程序域: /LM/W3SVC/2/ROOT-1-130820234563098226
+    信任级别: Full
+    应用程序虚拟路径: /
+    应用程序路径: D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\
+    计算机名称: VS-PC
+
+进程信息:
+    进程 ID: 9912
+    进程名: w3wp.exe
+    帐户名: NT AUTHORITY\SYSTEM
+
+异常信息:
+    异常类型: System.Exception
+    异常消息: Expect caching provider
+
+请求信息:
+    请求 URL: http://localhost/
+    请求路径: /
+    用户主机地址: ::1
+    用户: 
+    通过身份验证: False
+    身份验证类型: 
+    线程帐户名: NT AUTHORITY\SYSTEM
+
+线程信息:
+    线程 ID: 6
+    线程帐户名: NT AUTHORITY\SYSTEM
+    正在模拟: False
+    堆栈跟踪:    在 Bsc.Dmtds.Sites.Services.SiteManager..ctor(ISiteProvider provider, RepositoryManager repositoryManager) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Services\SiteManager.cs:行号 32
+   在 DynamicInjector11eb22d2af09475aa2a5638f85edb3fa(Object[] )
+   在 Ninject.Activation.Context.Resolve()
+   在 System.Linq.Enumerable.<>c__DisplayClass12`3.<CombineSelectors>b__11(TSource x)
+   在 System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   在 System.Linq.Enumerable.<CastIterator>d__b1`1.MoveNext()
+   在 System.Linq.Enumerable.Single[TSource](IEnumerable`1 source)
+   在 Bsc.Dmtds.Ninject.ContainerManager.Resolve[T](String key, Parameter[] parameters) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\ContainerManager.cs:行号 147
+   在 Bsc.Dmtds.Ninject.NinjectEngine.Resolve[T](Parameter[] parameters) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\NinjectEngine.cs:行号 82
+   在 Bsc.Dmtds.Sites.Services.ServiceFactory.get_SiteManager() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Services\ServiceFactory.cs:行号 152
+   在 Bsc.Dmtds.Sites.Web.FrontHttpRequestWrapper.ResolveSite() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontHttpRequestWrapper.cs:行号 160
+   在 Bsc.Dmtds.Sites.Web.FrontHttpContextWrapper.get_Request() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontHttpContextWrapper.cs:行号 24
+   在 System.Web.Routing.RouteCollection.GetRouteData(HttpContextBase httpContext)
+   在 System.Web.Routing.UrlRoutingModule.PostResolveRequestCache(HttpContextBase context)
+   在 Bsc.Dmtds.Sites.Web.FrontUrlRoutingModule.application_PostResolveRequestCache(Object sender, EventArgs e) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontUrlRoutingModule.cs:行号 17
+   在 System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+--------------------------------------------------------------------------------------------------------
+事件代码: 3005
+事件消息: 发生了未经处理的异常。
+事件时间: 2015/7/22 15:45:48
+事件时间(UTC): 2015/7/22 7:45:48
+事件 ID: 05bdb68c38d341259b7233eab6d2a862
+事件序列: 5
+事件匹配项: 1
+事件详细信息代码: 0
+
+应用程序信息:
+    应用程序域: /LM/W3SVC/2/ROOT-2-130820241317774572
+    信任级别: Full
+    应用程序虚拟路径: /
+    应用程序路径: D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\
+    计算机名称: VS-PC
+
+进程信息:
+    进程 ID: 9912
+    进程名: w3wp.exe
+    帐户名: NT AUTHORITY\SYSTEM
+
+异常信息:
+    异常类型: System.Exception
+    异常消息: Expect caching provider
+
+请求信息:
+    请求 URL: http://localhost/
+    请求路径: /
+    用户主机地址: ::1
+    用户: 
+    通过身份验证: False
+    身份验证类型: 
+    线程帐户名: NT AUTHORITY\SYSTEM
+
+线程信息:
+    线程 ID: 9
+    线程帐户名: NT AUTHORITY\SYSTEM
+    正在模拟: False
+    堆栈跟踪:    在 Bsc.Dmtds.Sites.Services.SiteManager..ctor(ISiteProvider provider, RepositoryManager repositoryManager) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Services\SiteManager.cs:行号 32
+   在 DynamicInjectorb60503ab141f47df91bceee39e93b4fb(Object[] )
+   在 Ninject.Activation.Context.Resolve()
+   在 System.Linq.Enumerable.<>c__DisplayClass12`3.<CombineSelectors>b__11(TSource x)
+   在 System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   在 System.Linq.Enumerable.<CastIterator>d__b1`1.MoveNext()
+   在 System.Linq.Enumerable.Single[TSource](IEnumerable`1 source)
+   在 Bsc.Dmtds.Ninject.ContainerManager.Resolve[T](String key, Parameter[] parameters) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\ContainerManager.cs:行号 147
+   在 Bsc.Dmtds.Ninject.NinjectEngine.Resolve[T](Parameter[] parameters) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\NinjectEngine.cs:行号 82
+   在 Bsc.Dmtds.Sites.Services.ServiceFactory.get_SiteManager() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Services\ServiceFactory.cs:行号 152
+   在 Bsc.Dmtds.Sites.Web.FrontHttpRequestWrapper.ResolveSite() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontHttpRequestWrapper.cs:行号 160
+   在 Bsc.Dmtds.Sites.Web.FrontHttpContextWrapper.get_Request() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontHttpContextWrapper.cs:行号 24
+   在 System.Web.Routing.RouteCollection.GetRouteData(HttpContextBase httpContext)
+   在 System.Web.Routing.UrlRoutingModule.PostResolveRequestCache(HttpContextBase context)
+   在 Bsc.Dmtds.Sites.Web.FrontUrlRoutingModule.application_PostResolveRequestCache(Object sender, EventArgs e) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontUrlRoutingModule.cs:行号 17
+   在 System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+--------------------------------------------------------------------------------------------------------
+事件代码: 3005
+事件消息: 发生了未经处理的异常。
+事件时间: 2015/7/22 15:58:23
+事件时间(UTC): 2015/7/22 7:58:23
+事件 ID: 5f31605bb87046e49225adae76ae957d
+事件序列: 7
+事件匹配项: 2
+事件详细信息代码: 0
+
+应用程序信息:
+    应用程序域: /LM/W3SVC/2/ROOT-2-130820241317774572
+    信任级别: Full
+    应用程序虚拟路径: /
+    应用程序路径: D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Web\
+    计算机名称: VS-PC
+
+进程信息:
+    进程 ID: 9912
+    进程名: w3wp.exe
+    帐户名: NT AUTHORITY\SYSTEM
+
+异常信息:
+    异常类型: System.Exception
+    异常消息: Expect caching provider
+
+请求信息:
+    请求 URL: http://localhost/
+    请求路径: /
+    用户主机地址: ::1
+    用户: 
+    通过身份验证: False
+    身份验证类型: 
+    线程帐户名: NT AUTHORITY\SYSTEM
+
+线程信息:
+    线程 ID: 9
+    线程帐户名: NT AUTHORITY\SYSTEM
+    正在模拟: False
+    堆栈跟踪:    在 Bsc.Dmtds.Sites.Services.SiteManager..ctor(ISiteProvider provider, RepositoryManager repositoryManager) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Services\SiteManager.cs:行号 32
+   在 DynamicInjectorb60503ab141f47df91bceee39e93b4fb(Object[] )
+   在 Ninject.Activation.Context.Resolve()
+   在 System.Linq.Enumerable.<>c__DisplayClass12`3.<CombineSelectors>b__11(TSource x)
+   在 System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   在 System.Linq.Enumerable.<CastIterator>d__b1`1.MoveNext()
+   在 System.Linq.Enumerable.Single[TSource](IEnumerable`1 source)
+   在 Bsc.Dmtds.Ninject.ContainerManager.Resolve[T](String key, Parameter[] parameters) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\ContainerManager.cs:行号 147
+   在 Bsc.Dmtds.Ninject.NinjectEngine.Resolve[T](Parameter[] parameters) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Ninject\NinjectEngine.cs:行号 82
+   在 Bsc.Dmtds.Sites.Services.ServiceFactory.get_SiteManager() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Services\ServiceFactory.cs:行号 152
+   在 Bsc.Dmtds.Sites.Web.FrontHttpRequestWrapper.ResolveSite() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontHttpRequestWrapper.cs:行号 160
+   在 Bsc.Dmtds.Sites.Web.FrontHttpContextWrapper.get_Request() 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontHttpContextWrapper.cs:行号 24
+   在 System.Web.Routing.RouteCollection.GetRouteData(HttpContextBase httpContext)
+   在 System.Web.Routing.UrlRoutingModule.PostResolveRequestCache(HttpContextBase context)
+   在 Bsc.Dmtds.Sites.Web.FrontUrlRoutingModule.application_PostResolveRequestCache(Object sender, EventArgs e) 位置 d:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Sites\Web\FrontUrlRoutingModule.cs:行号 17
+   在 System.Web.HttpApplication.SyncEventExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+--------------------------------------------------------------------------------------------------------

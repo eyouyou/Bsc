@@ -1,0 +1,37 @@
+﻿@model Bsc.Dmtds.Web.Areas.Account.Models.RegisterModel
+@{
+    ViewBag.Title = "Register";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+    <meta charset="utf-8">
+    @*<link href="~\Areas\Account\css\style.css" rel='stylesheet' type='text/css'/>*@
+    <link href="@Url.Content("~/Areas/Account/Content/css/style.css")" rel="stylesheet" type="text/css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+    <!--webfonts-->
+    <link href='http://fonts.useso.com/css?family=Oxygen:400,300,700' rel='stylesheet' type='text/css'>
+    <!--//webfonts-->
+</head>
+<body>
+   
+        <h2>快速注册</h2>
+       @using (Html.BeginForm())
+       {
+           <div class="lable-2">
+               @Html.TextBoxFor(m => m.Name, null, new {@Value = "your@email.com ", onfocus = "this.value = '';", onblur = "if (this.value == '') {this.value = 'your@email.com ';}"})
+               @Html.PasswordFor(m => m.Password, new {@Value = "Password ", onfocus = "this.value = '';", onblur = "if (this.value == '') {this.value = 'Password ';}"})
+           </div>
+           <h3>通过创建一个帐户，您同意我们<span class="term"><a href="#">条款和协议</a></span></h3>
+           <div class="submit">
+               <input type="submit" value="注册">
+           </div>
+           <div class="clear"> </div>
+       }
+    
+</body>
+</html>
+
+

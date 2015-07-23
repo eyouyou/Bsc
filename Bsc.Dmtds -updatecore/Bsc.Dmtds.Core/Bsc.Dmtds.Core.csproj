@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{53FFEBE4-9274-40B0-BD87-FCD65FAEFACA}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Bsc.Dmtds.Core</RootNamespace>
+    <AssemblyName>Bsc.Dmtds.Core</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Caching" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.2\lib\net45\System.Web.Helpers.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Mvc, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Microsoft.AspNet.Mvc.5.2.2\lib\net45\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.Razor.3.2.2\lib\net45\System.Web.Razor.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.WebPages, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.2\lib\net45\System.Web.WebPages.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Deployment, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.2\lib\net45\System.Web.WebPages.Deployment.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.2\lib\net45\System.Web.WebPages.Razor.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AggregateHtmlString.cs" />
+    <Compile Include="AreaRegistrationEx.cs" />
+    <Compile Include="BscModelMetadata.cs" />
+    <Compile Include="Caching\CacheHelper.cs" />
+    <Compile Include="Caching\NotifyRemote\CacheNotificationSection.cs" />
+    <Compile Include="Caching\NotifyRemote\ServerItemElement.cs" />
+    <Compile Include="Caching\NotifyRemote\ServerItemElementCollection.cs" />
+    <Compile Include="CallContext.cs" />
+    <Compile Include="CultureInfoHelper.cs" />
+    <Compile Include="DataType.cs" />
+    <Compile Include="DataViolation\DataViolationException.cs" />
+    <Compile Include="DataViolation\DataViolationItem.cs" />
+    <Compile Include="Data\BscDataAnnotationsModelMetadataProvider.cs" />
+    <Compile Include="Data\DataSourceAttribute.cs" />
+    <Compile Include="Data\ISelectListDataSource.cs" />
+    <Compile Include="Data\ModelMetadata.cs" />
+    <Compile Include="Formula\FormulaParser.cs" />
+    <Compile Include="Formula\IFormulaParser.cs" />
+    <Compile Include="Formula\IValueProvider.cs" />
+    <Compile Include="IBaseDir.cs" />
+    <Compile Include="ITimeZoneHelper.cs" />
+    <Compile Include="Key.cs" />
+    <Compile Include="KeyValue.cs" />
+    <Compile Include="Module\Account\IAccountBaseDir.cs" />
+    <Compile Include="Module\Account\Permission.cs" />
+    <Compile Include="Module\Account\Role.cs" />
+    <Compile Include="Module\Account\Setting.cs" />
+    <Compile Include="Module\Account\User.cs" />
+    <Compile Include="Module\BackModule.cs" />
+    <Compile Include="Module\Course.cs" />
+    <Compile Include="Module\CourseDoc.cs" />
+    <Compile Include="Module\CourseVideo.cs" />
+    <Compile Include="Module\Level.cs" />
+    <Compile Include="Module\StuDetail.cs" />
+    <Compile Include="Module\Subject.cs" />
+    <Compile Include="Module\TeaDetail.cs" />
+    <Compile Include="Module\UserClaim.cs" />
+    <Compile Include="Module\UserLogin.cs" />
+    <Compile Include="Module\UserRole.cs" />
+    <Compile Include="Mvc\AreaHelpers.cs" />
+    <Compile Include="Mvc\Grid\Design\GridAttribute.cs" />
+    <Compile Include="Mvc\Grid\Design\GridColumnAttribute.cs" />
+    <Compile Include="Mvc\Grid\GridModel.cs" />
+    <Compile Include="Mvc\Grid\IGridColumn.cs" />
+    <Compile Include="Mvc\Grid\IGridItem.cs" />
+    <Compile Include="Mvc\Grid\IGridItemColumn.cs" />
+    <Compile Include="Mvc\Grid\IGridModel.cs" />
+    <Compile Include="HttpApplicationHooker.cs" />
+    <Compile Include="IHttpApplicationEvents.cs" />
+    <Compile Include="Mvc\Html\HtmlExtensions.cs" />
+    <Compile Include="Mvc\Html\RadioButtonListExtensions.cs" />
+    <Compile Include="Mvc\Html\ValidationExtensions.cs" />
+    <Compile Include="Mvc\Html\ValidatorExtensions.cs" />
+    <Compile Include="Mvc\ViewDataDictionaryExtensions.cs" />
+    <Compile Include="Persistence\Relational\IRepository.cs" />
+    <Compile Include="IUnitOfWork.cs" />
+    <Compile Include="Mvc\BscDataAnnotationsModelMetadataProvider.cs" />
+    <Compile Include="Mvc\BscDataAnnotationsModelValidatorProvider.cs" />
+    <Compile Include="Mvc\EntityModelBinder.cs" />
+    <Compile Include="Mvc\MvcDependencyAttributeFilterProvider.cs" />
+    <Compile Include="Mvc\MvcDependencyResolver.cs" />
+    <Compile Include="Mvc\MvcModule.cs" />
+    <Compile Include="Mvc\Routing\IgnoreRouteCollection.cs" />
+    <Compile Include="Mvc\Routing\IgnoreRouteElement.cs" />
+    <Compile Include="Mvc\Routing\RouteChildElement.cs" />
+    <Compile Include="Mvc\Routing\RouteCollection.cs" />
+    <Compile Include="Mvc\Routing\RouteConfigElement.cs" />
+    <Compile Include="Mvc\Routing\RouteTableRegister.cs" />
+    <Compile Include="Mvc\Routing\RouteTableSection.cs" />
+    <Compile Include="Mvc\WebResourceLoader\ConfigurationManager.cs" />
+    <Compile Include="Mvc\WebResourceLoader\Configuration\FileCollection.cs" />
+    <Compile Include="Mvc\WebResourceLoader\Configuration\FileConfigurationSection.cs" />
+    <Compile Include="Mvc\WebResourceLoader\Configuration\FileInfoElement.cs" />
+    <Compile Include="Mvc\WebResourceLoader\Configuration\ReferenceCollection.cs" />
+    <Compile Include="Mvc\WebResourceLoader\Configuration\ReferenceElement.cs" />
+    <Compile Include="Mvc\WebResourceLoader\Configuration\WebResourcesSection.cs" />
+    <Compile Include="Mvc\WebResourceLoader\DynamicClientResource\DynamicClientResourceFactory.cs" />
+    <Compile Include="Mvc\WebResourceLoader\DynamicClientResource\IDynamicClientResource.cs" />
+    <Compile Include="Mvc\WebResourceLoader\DynamicClientResource\ResourceType.cs" />
+    <Compile Include="Mvc\WebResourceLoader\Mode.cs" />
+    <Compile Include="Mvc\WebResourceLoader\WebResourceException.cs" />
+    <Compile Include="Persistence\IChangeTimeline.cs" />
+    <Compile Include="Persistence\Non_Relational\IIdentifiable.cs" />
+    <Compile Include="Persistence\Non_Relational\IPersistable.cs" />
+    <Compile Include="Persistence\Non_Relational\IPersistableExtensions.cs" />
+    <Compile Include="Persistence\Non_Relational\IProvider.cs" />
+    <Compile Include="Persistence\Non_Relational\RelationModel.cs" />
+    <Compile Include="Persistence\Relational\IEntity.cs" />
+    <Compile Include="Routing\BoundUrl.cs" />
+    <Compile Include="Routing\ContentPathSegment.cs" />
+    <Compile Include="Routing\LiteralSubsegment.cs" />
+    <Compile Include="Routing\ParameterSubsegment.cs" />
+    <Compile Include="Routing\ParsedRoute.cs" />
+    <Compile Include="Routing\PathSegment.cs" />
+    <Compile Include="Routing\PathSubsegment.cs" />
+    <Compile Include="Routing\RouteParser.cs" />
+    <Compile Include="Routing\SeparatorPathSegment.cs" />
+    <Compile Include="Runtime\AppDomainTypeFinder.cs" />
+    <Compile Include="Runtime\Dependency\AttributeInfo.cs" />
+    <Compile Include="Runtime\Dependency\IDependencyRegistrar.cs" />
+    <Compile Include="Runtime\IEngine.cs" />
+    <Compile Include="IPagedList.cs" />
+    <Compile Include="Linq\Dynamic.cs" />
+    <Compile Include="Linq\IEnumerableExtensions.cs" />
+    <Compile Include="Linq\PredicateBuilder.cs" />
+    <Compile Include="Mvc\Routing\RouteValuesHelpers.cs" />
+    <Compile Include="Mvc\Paging\PagedList.cs" />
+    <Compile Include="Mvc\Paging\PageLinqExtensions.cs" />
+    <Compile Include="Mvc\Paging\PagerBuilder.cs" />
+    <Compile Include="Mvc\Paging\PagerHelper.cs" />
+    <Compile Include="Mvc\Paging\PagerItem.cs" />
+    <Compile Include="Mvc\Paging\PagerOptions.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reflection\MemberException.cs" />
+    <Compile Include="Reflection\MemberNotFoundException.cs" />
+    <Compile Include="Reflection\ObjectExtensions.cs" />
+    <Compile Include="Reflection\PropertyExtensions.cs" />
+    <Compile Include="Mvc\RequestContextExtensions.cs" />
+    <Compile Include="Mvc\TypeExtensions.cs" />
+    <Compile Include="Mvc\ViewContextExtensions.cs" />
+    <Compile Include="Runtime\Dependency\ComponentLifeStyle.cs" />
+    <Compile Include="Runtime\Dependency\DependencyAttribute.cs" />
+    <Compile Include="Runtime\Dependency\IContainerManager.cs" />
+    <Compile Include="Runtime\Dependency\InjectAttribute.cs" />
+    <Compile Include="Runtime\Dependency\IResolvingObserver.cs" />
+    <Compile Include="Runtime\EngineContext.cs" />
+    <Compile Include="Runtime\IStartupTask.cs" />
+    <Compile Include="Runtime\ITypeFinder.cs" />
+    <Compile Include="Runtime\Parameter.cs" />
+    <Compile Include="Runtime\Singleton.cs" />
+    <Compile Include="Runtime\WebAppTypeFinder.cs" />
+    <Compile Include="TypeActivator.cs" />
+    <Compile Include="TypeDescriptorHelper.cs" />
+    <Compile Include="Web\HttpApplicationStateBaseWrapper.cs" />
+    <Compile Include="Web\HttpBrowserCapabilitiesBaseWrapper.cs" />
+    <Compile Include="Web\HttpCachePolicyBaseWrapper.cs" />
+    <Compile Include="Web\HttpContextBaseWrapper.cs" />
+    <Compile Include="Web\HttpFileCollectionBaseWrapper.cs" />
+    <Compile Include="Web\HttpRequestBaseWrapper.cs" />
+    <Compile Include="Web\HttpResponseBaseWrapper.cs" />
+    <Compile Include="Web\HttpServerUtilityBaseWrapper.cs" />
+    <Compile Include="Web\HttpStaticObjectsCollectionBaseWrapper.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Bsc.Dmtds.Common\Bsc.Dmtds.Common.csproj">
+      <Project>{e478a3b7-fc98-45f1-b6ed-8c4180ae3631}</Project>
+      <Name>Bsc.Dmtds.Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Caching\Caching\" />
+    <Folder Include="Service\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

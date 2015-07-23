@@ -1,0 +1,5 @@
+D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Caching\bin\Debug\Bsc.Dmtds.Caching.dll
+D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Caching\bin\Debug\Bsc.Dmtds.Caching.pdb
+D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Caching\obj\Debug\Bsc.Dmtds.Caching.dll
+D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Caching\obj\Debug\Bsc.Dmtds.Caching.pdb
+D:\WorkSpace\Bsc\Bsc.Dmtds -updatecore\Bsc.Dmtds.Caching\obj\Debug\Bsc.Dmtds.Caching.csprojResolveAssemblyReference.cache

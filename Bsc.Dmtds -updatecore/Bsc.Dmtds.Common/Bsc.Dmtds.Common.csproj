@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E478A3B7-FC98-45F1-B6ED-8C4180AE3631}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Bsc.Dmtds.Common</RootNamespace>
+    <AssemblyName>Bsc.Dmtds.Common</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data.Entity.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web">
+      <HintPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Mvc, Version=5.2.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Microsoft.AspNet.Mvc.5.2.2\lib\net45\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BscException.cs" />
+    <Compile Include="Collection\ComparedResult.cs" />
+    <Compile Include="Collection\DynamicDictionary.cs" />
+    <Compile Include="Collection\EnumerableExtensions.cs" />
+    <Compile Include="Collection\Generic\CKeyValuePair.cs" />
+    <Compile Include="Collection\ReadonlyNameValueCollection.cs" />
+    <Compile Include="ComponentModel\MetadataForAttribute.cs" />
+    <Compile Include="Drawing\ImageTools.cs" />
+    <Compile Include="Extensions\TypeExtensions.cs" />
+    <Compile Include="Globalization\DirectoryCreateException.cs" />
+    <Compile Include="Globalization\Element.cs" />
+    <Compile Include="Globalization\ElementCacheKey.cs" />
+    <Compile Include="Globalization\IElementRepository.cs" />
+    <Compile Include="Globalization\LocalizeExtension.cs" />
+    <Compile Include="Globalization\Repository\CacheElementRepository.cs" />
+    <Compile Include="Globalization\Repository\ResXResource.cs" />
+    <Compile Include="HealthMonitoring\Log.cs" />
+    <Compile Include="HealthMonitoring\WebRequestErrorEventWrapper.cs" />
+    <Compile Include="IO\IOUtility.cs" />
+    <Compile Include="IO\StreamExtensions.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Settings.cs" />
+    <Compile Include="SR.cs" />
+    <Compile Include="StringExtensions.cs" />
+    <Compile Include="Util\AsyncHelper.cs" />
+    <Compile Include="Util\ConvertHelper.cs" />
+    <Compile Include="Util\CryptoHelper.cs" />
+    <Compile Include="Util\JsonHelper.cs" />
+    <Compile Include="Util\NetHelper.cs" />
+    <Compile Include="Util\DataContractSerializationHelper.cs" />
+    <Compile Include="Util\SimilarityHelper.cs" />
+    <Compile Include="Util\UniqueIdGenerator.cs" />
+    <Compile Include="Util\UrlUtility.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
